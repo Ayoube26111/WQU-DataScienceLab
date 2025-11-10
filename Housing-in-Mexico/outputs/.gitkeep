@@ -1,0 +1,4 @@
+import matplotlib.pyplot as plt
+
+plt.plot(df['price'])
+plt.savefig("outputs/price_plot.png")
