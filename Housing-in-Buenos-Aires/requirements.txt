@@ -1,0 +1,7 @@
+# Common Python packages for WQU Data Science projects
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
