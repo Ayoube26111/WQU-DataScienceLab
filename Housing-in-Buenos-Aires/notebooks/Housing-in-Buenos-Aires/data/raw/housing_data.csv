@@ -1,0 +1,6 @@
+place_with_parent_names,property_type,price_aprox_usd,surface_covered_in_m2,lat-lon,surface_total_in_m2,price_usd_per_m2,floor,rooms,expenses,operation,currency,properati_url,price
+Argentina|Buenos Aires|Palermo,apartment,95000,55,"-34.58,-58.41",60,1727,3,2,200,sale,USD,url1,95000
+Argentina|Buenos Aires|Recoleta,apartment,87000,45,"-34.59,-58.38",50,1933,2,1,150,sale,USD,url2,87000
+Argentina|Buenos Aires|Palermo,apartment,99000,60,"-34.57,-58.42",65,1650,5,3,250,sale,USD,url3,99000
+Argentina|Buenos Aires|Caballito,apartment,92000,50,"-34.60,-58.44",55,1840,4,2,180,sale,USD,url4,92000
+Argentina|Buenos Aires|Belgrano,apartment,88000,48,"-34.56,-58.39",53,1830,2,1,160,sale,USD,url5,88000
