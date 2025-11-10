@@ -1,3 +1,4 @@
+ HEAD
 # 🌍 WQU Data Science Lab Projects
 
 Welcome to my **WorldQuant University Data Science Lab** repository! Here you’ll find my hands-on projects covering data analysis, machine learning, and data-driven insights from different countries and domains.
@@ -47,4 +48,19 @@ Predict market volatility in India using historical financial data and statistic
 
 ---
 
-*Made with ❤️ by [Ayoube26111](https://github.com/Ayoube26111)*
+*Made with ❤️ by [Ayoube26111](https://github.com/Ayoube2611]
+# Earthquake-Damage-in-Nepal
+
+## Description
+This project is part of the WorldQuant University Data Science Lab. It covers data analysis, visualization, and modeling.
+
+## Folder Structure
+- `data/` – raw and processed datasets
+- `notebooks/` – Jupyter notebooks or scripts
+- `src/` – Python scripts or modules
+- `outputs/` – charts, tables, reports
+
+## How to Run
+1. Install required packages: `pip install -r requirements.txt`
+2. Run notebooks in `notebooks/` or scripts in `src/`
+ e2302e3 (Initial commit: Earthquake Damage analysis project)

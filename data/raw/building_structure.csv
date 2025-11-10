@@ -1,0 +1,2001 @@
+building_id,roof_type,plinth_area_sq_ft,foundation_type,ground_floor_type,position,plan_configuration,count_floors_pre_eq,count_floors_post_eq
+1,Tile,1082,Brick,RC,Not Attached,T-Shaped,1,2
+2,Concrete,512,Mud,Mud,Not Attached,Square,2,1
+3,Concrete,1039,RC,Brick,Not Attached,T-Shaped,2,4
+4,Concrete,718,Brick,RC,Attached,Rectangular,1,3
+5,Tile,1429,RC,RC,Attached,T-Shaped,3,2
+6,Thatch,574,Mud,RC,Attached,Square,1,4
+7,Tile,650,Mud,Mud,Not Attached,T-Shaped,4,3
+8,Thatch,1849,Brick,Mud,Not Attached,Rectangular,1,3
+9,Tile,1214,RC,Brick,Not Attached,Rectangular,2,3
+10,Tile,794,Brick,RC,Attached,Square,1,1
+11,Thatch,1402,Mud,RC,Not Attached,Square,3,2
+12,Concrete,1433,Mud,Mud,Attached,Square,2,4
+13,Thatch,699,RC,Mud,Attached,Rectangular,4,2
+14,Metal,663,RC,Brick,Attached,T-Shaped,3,2
+15,Metal,1347,RC,Brick,Attached,T-Shaped,2,4
+16,Thatch,312,Brick,Mud,Attached,Square,4,2
+17,Tile,1235,RC,RC,Not Attached,T-Shaped,3,1
+18,Metal,1349,RC,Brick,Not Attached,T-Shaped,4,4
+19,Metal,1788,Mud,Mud,Attached,Square,1,4
+20,Tile,530,Mud,Mud,Not Attached,Square,1,3
+21,Tile,1506,RC,RC,Not Attached,Rectangular,4,2
+22,Concrete,339,RC,Mud,Attached,Rectangular,1,4
+23,Tile,1624,Mud,Mud,Attached,Rectangular,4,4
+24,Thatch,1101,RC,Brick,Not Attached,Rectangular,3,1
+25,Thatch,1320,Brick,Mud,Not Attached,T-Shaped,2,3
+26,Concrete,716,Brick,Mud,Not Attached,T-Shaped,4,4
+27,Metal,768,Brick,Brick,Not Attached,Rectangular,2,1
+28,Metal,1045,RC,RC,Attached,Rectangular,2,4
+29,Tile,1292,Mud,RC,Not Attached,Square,4,4
+30,Thatch,317,RC,Brick,Attached,T-Shaped,1,4
+31,Metal,1087,RC,Brick,Attached,T-Shaped,3,1
+32,Concrete,1282,Mud,RC,Not Attached,Rectangular,2,2
+33,Concrete,1256,Mud,RC,Not Attached,T-Shaped,3,4
+34,Thatch,1541,Mud,RC,Not Attached,Square,2,4
+35,Concrete,249,Brick,RC,Attached,Square,4,2
+36,Concrete,1712,RC,RC,Attached,T-Shaped,1,4
+37,Thatch,218,Mud,Brick,Attached,Rectangular,3,3
+38,Tile,925,RC,Mud,Attached,T-Shaped,2,4
+39,Tile,396,Brick,RC,Not Attached,Square,4,3
+40,Concrete,1673,Brick,RC,Attached,Rectangular,4,2
+41,Tile,758,Mud,Mud,Attached,T-Shaped,2,1
+42,Tile,1902,Mud,Mud,Not Attached,Rectangular,2,2
+43,Concrete,651,RC,Mud,Attached,Rectangular,2,4
+44,Tile,488,Mud,Mud,Attached,Square,1,3
+45,Concrete,1364,RC,Mud,Not Attached,Rectangular,2,1
+46,Metal,1307,Mud,Mud,Attached,T-Shaped,2,4
+47,Thatch,1917,RC,Brick,Attached,Rectangular,1,1
+48,Thatch,590,RC,Mud,Attached,Rectangular,4,1
+49,Tile,1814,RC,Mud,Attached,T-Shaped,2,4
+50,Tile,414,RC,Brick,Not Attached,Square,3,2
+51,Tile,1749,Brick,Mud,Attached,Square,4,4
+52,Thatch,414,RC,RC,Not Attached,T-Shaped,3,4
+53,Metal,1626,Mud,RC,Attached,T-Shaped,2,2
+54,Metal,327,Brick,Mud,Not Attached,Square,1,3
+55,Thatch,1700,Brick,Brick,Not Attached,Rectangular,1,4
+56,Metal,959,RC,RC,Not Attached,T-Shaped,1,1
+57,Thatch,603,Brick,Brick,Attached,Rectangular,2,4
+58,Metal,1252,RC,RC,Attached,T-Shaped,2,4
+59,Concrete,537,Mud,Mud,Attached,Square,3,1
+60,Concrete,1030,RC,Brick,Not Attached,Rectangular,1,2
+61,Thatch,913,Brick,Brick,Attached,Rectangular,2,3
+62,Metal,560,Mud,Brick,Attached,T-Shaped,4,3
+63,Tile,768,RC,RC,Attached,Rectangular,2,1
+64,Metal,1615,Mud,RC,Attached,T-Shaped,2,2
+65,Concrete,417,Mud,RC,Not Attached,Square,4,4
+66,Concrete,1797,Brick,Mud,Not Attached,Rectangular,1,4
+67,Metal,1892,Mud,RC,Attached,T-Shaped,4,4
+68,Metal,401,Brick,Mud,Attached,Rectangular,1,4
+69,Tile,216,Mud,Brick,Attached,T-Shaped,4,4
+70,Tile,521,RC,Brick,Not Attached,T-Shaped,3,1
+71,Metal,717,Mud,Mud,Attached,T-Shaped,1,4
+72,Metal,1793,RC,RC,Not Attached,Square,2,4
+73,Metal,1548,RC,Mud,Not Attached,Rectangular,3,2
+74,Metal,1635,Mud,Brick,Attached,Square,1,4
+75,Thatch,1541,RC,Brick,Attached,T-Shaped,1,3
+76,Metal,880,Mud,Mud,Attached,T-Shaped,1,1
+77,Tile,1305,Mud,RC,Not Attached,Square,4,1
+78,Concrete,1697,RC,RC,Not Attached,Square,1,1
+79,Thatch,1691,RC,Mud,Attached,Rectangular,2,3
+80,Metal,624,Brick,Mud,Not Attached,T-Shaped,1,4
+81,Concrete,1954,RC,RC,Attached,Square,2,1
+82,Thatch,1912,Brick,Brick,Attached,T-Shaped,2,3
+83,Concrete,1427,RC,Mud,Not Attached,T-Shaped,2,2
+84,Metal,1806,Mud,RC,Not Attached,Rectangular,3,4
+85,Metal,1218,RC,RC,Not Attached,Rectangular,2,3
+86,Tile,586,Mud,Brick,Not Attached,Rectangular,4,4
+87,Metal,977,Mud,Brick,Attached,Square,1,2
+88,Metal,297,Mud,Brick,Attached,T-Shaped,4,3
+89,Thatch,1568,Brick,Brick,Attached,Square,3,4
+90,Tile,407,RC,Brick,Not Attached,Square,1,3
+91,Thatch,1737,Mud,Mud,Attached,Rectangular,2,1
+92,Concrete,1859,Mud,RC,Not Attached,T-Shaped,1,4
+93,Metal,785,Brick,Mud,Not Attached,T-Shaped,3,3
+94,Concrete,365,RC,Mud,Not Attached,Rectangular,3,1
+95,Thatch,221,RC,Mud,Attached,T-Shaped,4,2
+96,Metal,353,Brick,Mud,Not Attached,Rectangular,1,4
+97,Metal,1662,Brick,Mud,Not Attached,Square,1,4
+98,Thatch,1518,RC,Brick,Not Attached,Square,1,2
+99,Thatch,418,Brick,Brick,Not Attached,Rectangular,4,1
+100,Thatch,868,RC,RC,Not Attached,Square,3,2
+101,Thatch,1718,RC,Mud,Not Attached,Square,2,4
+102,Thatch,429,Mud,RC,Not Attached,Rectangular,1,3
+103,Metal,219,Mud,Brick,Not Attached,Square,4,1
+104,Thatch,752,RC,Brick,Not Attached,T-Shaped,4,1
+105,Metal,1149,RC,Brick,Not Attached,Square,2,1
+106,Metal,347,RC,Mud,Not Attached,Rectangular,3,2
+107,Thatch,1331,RC,Mud,Not Attached,T-Shaped,1,2
+108,Thatch,602,RC,Brick,Attached,T-Shaped,1,3
+109,Tile,795,RC,RC,Attached,Square,4,3
+110,Metal,1706,Brick,RC,Not Attached,T-Shaped,3,1
+111,Thatch,566,RC,Brick,Not Attached,Rectangular,1,3
+112,Thatch,1637,Brick,RC,Not Attached,T-Shaped,2,2
+113,Thatch,1532,Brick,Brick,Attached,Square,3,3
+114,Tile,1001,RC,RC,Attached,Square,3,2
+115,Tile,1117,RC,Brick,Attached,T-Shaped,4,3
+116,Concrete,1357,Brick,RC,Not Attached,Rectangular,4,4
+117,Metal,1942,Brick,Mud,Not Attached,Rectangular,1,2
+118,Concrete,1506,RC,Brick,Not Attached,Square,4,4
+119,Thatch,272,RC,Brick,Not Attached,Square,3,2
+120,Tile,680,Brick,RC,Attached,Rectangular,1,3
+121,Tile,1575,Brick,Brick,Not Attached,T-Shaped,1,4
+122,Concrete,759,Brick,Brick,Attached,T-Shaped,3,3
+123,Tile,1549,Mud,Brick,Attached,T-Shaped,1,2
+124,Thatch,944,Brick,Mud,Not Attached,T-Shaped,2,4
+125,Tile,1666,Mud,Mud,Attached,Rectangular,2,1
+126,Concrete,299,RC,RC,Attached,Square,1,3
+127,Thatch,1282,RC,Mud,Attached,Square,4,2
+128,Concrete,707,Brick,RC,Attached,T-Shaped,2,4
+129,Tile,457,RC,Mud,Not Attached,Rectangular,1,3
+130,Concrete,612,RC,RC,Not Attached,Rectangular,2,4
+131,Concrete,1675,RC,Mud,Attached,T-Shaped,4,3
+132,Metal,1288,RC,Mud,Not Attached,T-Shaped,3,3
+133,Tile,794,Mud,RC,Attached,T-Shaped,1,3
+134,Tile,1377,Mud,Brick,Not Attached,Square,1,4
+135,Concrete,465,Brick,Brick,Not Attached,T-Shaped,1,4
+136,Metal,1020,Brick,Mud,Not Attached,Square,1,3
+137,Tile,1302,Brick,RC,Not Attached,Rectangular,1,1
+138,Thatch,1538,RC,Brick,Not Attached,Rectangular,1,1
+139,Concrete,861,RC,RC,Attached,Square,4,1
+140,Tile,1146,Mud,Brick,Not Attached,Square,3,2
+141,Thatch,759,Mud,RC,Attached,Square,4,1
+142,Tile,1116,Brick,Mud,Attached,Square,4,4
+143,Thatch,1090,Mud,RC,Not Attached,T-Shaped,3,1
+144,Concrete,1471,Mud,Brick,Attached,Rectangular,4,4
+145,Tile,1067,Mud,Mud,Not Attached,T-Shaped,2,2
+146,Tile,809,Mud,RC,Attached,Square,4,4
+147,Metal,613,Mud,Brick,Attached,T-Shaped,1,4
+148,Concrete,224,Brick,Mud,Not Attached,T-Shaped,2,4
+149,Thatch,483,Brick,RC,Not Attached,Rectangular,2,1
+150,Tile,1672,Mud,Brick,Not Attached,T-Shaped,3,3
+151,Tile,1080,Brick,RC,Not Attached,Rectangular,4,4
+152,Thatch,500,RC,RC,Attached,Square,4,1
+153,Concrete,1291,Mud,Mud,Not Attached,T-Shaped,2,1
+154,Metal,1230,RC,Mud,Attached,Square,4,1
+155,Metal,1016,Brick,Brick,Attached,Rectangular,4,3
+156,Tile,1360,Brick,Mud,Attached,Square,3,3
+157,Thatch,1387,RC,Brick,Attached,Square,2,3
+158,Tile,282,Brick,RC,Attached,Rectangular,1,3
+159,Thatch,1873,Mud,RC,Attached,Square,2,2
+160,Metal,1643,RC,Brick,Not Attached,Square,3,3
+161,Concrete,1296,Mud,RC,Attached,Square,3,3
+162,Thatch,1460,RC,Mud,Attached,T-Shaped,3,3
+163,Metal,245,Brick,RC,Attached,Square,4,4
+164,Tile,817,RC,Mud,Not Attached,Rectangular,2,4
+165,Thatch,1127,RC,Brick,Not Attached,T-Shaped,4,3
+166,Concrete,461,Mud,Brick,Attached,T-Shaped,4,2
+167,Tile,375,Brick,RC,Not Attached,Rectangular,2,4
+168,Tile,1389,Mud,RC,Attached,Square,3,1
+169,Metal,856,Brick,Mud,Not Attached,T-Shaped,1,4
+170,Thatch,1041,Mud,Mud,Attached,T-Shaped,1,1
+171,Tile,569,RC,RC,Not Attached,T-Shaped,2,4
+172,Concrete,253,Mud,RC,Not Attached,Square,2,3
+173,Thatch,889,Brick,Brick,Not Attached,T-Shaped,3,4
+174,Concrete,1642,Brick,Brick,Attached,Rectangular,2,3
+175,Tile,1979,RC,Brick,Attached,Square,2,3
+176,Concrete,1730,Brick,RC,Attached,Rectangular,3,4
+177,Metal,1564,Mud,RC,Not Attached,Rectangular,3,1
+178,Concrete,1350,RC,RC,Not Attached,T-Shaped,4,1
+179,Thatch,1632,Brick,Brick,Attached,T-Shaped,2,4
+180,Concrete,566,Brick,RC,Not Attached,T-Shaped,1,3
+181,Concrete,1494,Mud,Mud,Attached,Rectangular,2,1
+182,Metal,843,Mud,RC,Attached,Square,1,2
+183,Concrete,1828,RC,RC,Attached,T-Shaped,1,3
+184,Concrete,578,Brick,RC,Attached,T-Shaped,1,4
+185,Tile,272,Mud,RC,Not Attached,Rectangular,4,3
+186,Tile,1114,RC,RC,Not Attached,Square,3,2
+187,Thatch,1471,Brick,Mud,Not Attached,Rectangular,3,2
+188,Tile,1059,Brick,Mud,Attached,T-Shaped,4,1
+189,Tile,242,RC,RC,Not Attached,Rectangular,3,2
+190,Tile,576,RC,Brick,Attached,T-Shaped,4,3
+191,Tile,1264,Mud,RC,Attached,Square,2,1
+192,Metal,369,Brick,RC,Attached,Rectangular,4,2
+193,Tile,411,Brick,RC,Attached,T-Shaped,3,1
+194,Metal,1716,Brick,Brick,Attached,T-Shaped,3,1
+195,Metal,1903,RC,Brick,Attached,T-Shaped,2,4
+196,Tile,238,Mud,Brick,Not Attached,T-Shaped,4,1
+197,Concrete,568,Brick,Mud,Not Attached,Rectangular,2,1
+198,Metal,956,RC,Brick,Not Attached,T-Shaped,1,2
+199,Concrete,350,Brick,Mud,Not Attached,Rectangular,4,3
+200,Concrete,1334,Mud,Mud,Attached,T-Shaped,2,3
+201,Tile,1703,Brick,Brick,Attached,Rectangular,2,2
+202,Thatch,1659,Mud,Brick,Not Attached,Rectangular,3,3
+203,Tile,1270,Mud,Brick,Not Attached,T-Shaped,4,1
+204,Thatch,1223,Brick,Mud,Not Attached,T-Shaped,1,4
+205,Thatch,1798,Brick,RC,Not Attached,T-Shaped,1,1
+206,Tile,936,Mud,Brick,Not Attached,T-Shaped,4,1
+207,Tile,1589,RC,Brick,Not Attached,Square,4,4
+208,Thatch,268,Mud,Brick,Not Attached,T-Shaped,2,2
+209,Tile,498,Brick,Mud,Not Attached,T-Shaped,3,1
+210,Thatch,1143,Brick,Mud,Attached,T-Shaped,3,1
+211,Concrete,1001,RC,RC,Attached,Rectangular,3,2
+212,Tile,495,Mud,Brick,Attached,T-Shaped,4,1
+213,Concrete,402,Mud,Mud,Attached,Rectangular,3,1
+214,Metal,260,Mud,RC,Not Attached,Rectangular,2,3
+215,Concrete,1145,Brick,Brick,Attached,Rectangular,4,2
+216,Concrete,1162,Mud,Mud,Not Attached,Rectangular,4,1
+217,Thatch,1537,RC,Brick,Attached,Square,3,1
+218,Concrete,1384,Brick,Brick,Not Attached,T-Shaped,1,4
+219,Tile,530,Brick,Mud,Not Attached,Rectangular,1,4
+220,Thatch,1751,Mud,Mud,Attached,T-Shaped,2,4
+221,Metal,537,RC,Mud,Attached,Rectangular,3,1
+222,Tile,1829,Brick,Brick,Not Attached,Square,3,1
+223,Metal,1527,Brick,Brick,Not Attached,Rectangular,4,4
+224,Concrete,1726,Mud,RC,Not Attached,T-Shaped,4,3
+225,Tile,1873,Mud,Brick,Attached,T-Shaped,3,3
+226,Tile,1561,RC,Mud,Attached,Square,4,3
+227,Metal,1773,Mud,Brick,Not Attached,T-Shaped,3,3
+228,Tile,838,RC,RC,Attached,T-Shaped,2,2
+229,Tile,474,Brick,RC,Not Attached,Rectangular,4,4
+230,Tile,1387,RC,Mud,Attached,T-Shaped,3,1
+231,Concrete,1666,RC,Mud,Attached,Rectangular,4,4
+232,Metal,518,RC,RC,Attached,Square,2,3
+233,Tile,788,Brick,RC,Attached,T-Shaped,4,1
+234,Thatch,703,Mud,RC,Attached,Rectangular,3,2
+235,Thatch,1909,Brick,Mud,Not Attached,T-Shaped,4,4
+236,Thatch,586,Mud,RC,Not Attached,Rectangular,4,1
+237,Thatch,1069,RC,RC,Attached,Square,3,1
+238,Concrete,1032,RC,Mud,Not Attached,Rectangular,1,3
+239,Tile,1214,RC,Brick,Not Attached,T-Shaped,4,3
+240,Metal,802,RC,Brick,Attached,Rectangular,4,4
+241,Tile,1973,RC,RC,Not Attached,T-Shaped,2,2
+242,Concrete,1999,Mud,Brick,Attached,Square,1,1
+243,Thatch,890,Mud,Brick,Not Attached,Rectangular,2,3
+244,Concrete,693,RC,Brick,Not Attached,T-Shaped,3,4
+245,Tile,689,Brick,Brick,Not Attached,T-Shaped,3,3
+246,Metal,920,Brick,RC,Not Attached,T-Shaped,2,4
+247,Concrete,1296,RC,Brick,Not Attached,Rectangular,4,3
+248,Metal,708,Mud,Brick,Not Attached,Rectangular,1,2
+249,Concrete,589,Brick,Mud,Not Attached,Rectangular,2,1
+250,Metal,1842,Brick,RC,Attached,Square,2,3
+251,Metal,494,Brick,Mud,Attached,T-Shaped,3,1
+252,Thatch,1592,RC,Mud,Attached,T-Shaped,4,4
+253,Metal,995,Brick,RC,Attached,Square,1,2
+254,Thatch,1064,Brick,Brick,Not Attached,Square,2,1
+255,Tile,1917,Brick,Mud,Not Attached,Rectangular,1,3
+256,Tile,748,Brick,RC,Not Attached,Rectangular,1,1
+257,Thatch,848,Mud,Brick,Attached,Rectangular,2,1
+258,Thatch,767,RC,RC,Attached,Rectangular,1,4
+259,Concrete,1410,RC,Mud,Attached,Rectangular,3,2
+260,Concrete,1052,Mud,Brick,Not Attached,Rectangular,4,2
+261,Concrete,969,Mud,Brick,Attached,Square,4,1
+262,Tile,644,RC,RC,Not Attached,Square,4,1
+263,Concrete,1793,Brick,Brick,Attached,Square,3,4
+264,Metal,562,Brick,Mud,Not Attached,T-Shaped,3,1
+265,Metal,322,RC,Mud,Attached,T-Shaped,3,4
+266,Concrete,1411,Brick,Mud,Not Attached,Rectangular,4,2
+267,Metal,941,Mud,RC,Attached,Square,1,2
+268,Tile,879,Brick,Brick,Attached,T-Shaped,3,4
+269,Metal,619,Brick,Brick,Not Attached,T-Shaped,2,1
+270,Tile,1849,Brick,Brick,Not Attached,Square,3,2
+271,Thatch,1475,RC,Mud,Attached,T-Shaped,2,3
+272,Thatch,1842,Mud,Brick,Not Attached,T-Shaped,4,4
+273,Thatch,1772,Brick,Mud,Attached,Square,2,2
+274,Thatch,1558,RC,Brick,Not Attached,T-Shaped,3,2
+275,Metal,291,Brick,Mud,Attached,Square,3,2
+276,Concrete,1753,Mud,Brick,Not Attached,T-Shaped,1,3
+277,Metal,262,Brick,RC,Attached,Square,4,3
+278,Tile,1885,Mud,RC,Attached,T-Shaped,2,3
+279,Metal,711,Brick,Mud,Attached,T-Shaped,4,1
+280,Metal,1362,Mud,Mud,Not Attached,Square,3,4
+281,Tile,1921,Brick,Brick,Attached,T-Shaped,1,1
+282,Thatch,1408,Mud,Brick,Not Attached,Square,3,3
+283,Thatch,1428,Brick,RC,Not Attached,Square,3,4
+284,Thatch,971,Brick,Brick,Not Attached,T-Shaped,3,1
+285,Concrete,1437,RC,Mud,Attached,Rectangular,2,1
+286,Tile,455,RC,Mud,Not Attached,T-Shaped,3,1
+287,Tile,334,Mud,Mud,Not Attached,Rectangular,4,3
+288,Metal,1796,Brick,Mud,Not Attached,Rectangular,4,2
+289,Concrete,1074,Mud,Mud,Attached,T-Shaped,1,4
+290,Thatch,1021,RC,RC,Not Attached,Rectangular,4,3
+291,Concrete,287,Mud,RC,Not Attached,Square,3,4
+292,Tile,1187,Mud,Mud,Not Attached,Square,3,3
+293,Tile,1430,RC,Brick,Not Attached,Rectangular,4,1
+294,Metal,1352,Brick,Mud,Attached,Square,1,1
+295,Metal,1022,Mud,RC,Attached,T-Shaped,1,2
+296,Tile,1226,RC,Mud,Not Attached,Square,4,2
+297,Thatch,1173,Brick,RC,Not Attached,Rectangular,2,4
+298,Thatch,1133,RC,RC,Not Attached,T-Shaped,2,2
+299,Concrete,1977,Mud,Mud,Not Attached,Square,2,2
+300,Tile,320,Brick,Mud,Attached,T-Shaped,2,4
+301,Tile,1608,Brick,Brick,Attached,Rectangular,4,3
+302,Thatch,1837,RC,RC,Attached,Square,1,2
+303,Thatch,1261,RC,Brick,Attached,T-Shaped,3,3
+304,Tile,1564,RC,Mud,Not Attached,T-Shaped,3,1
+305,Metal,1207,Brick,RC,Not Attached,Square,4,2
+306,Tile,1124,Brick,Brick,Attached,T-Shaped,3,1
+307,Tile,844,Mud,Brick,Attached,T-Shaped,2,1
+308,Thatch,913,Brick,Brick,Not Attached,Rectangular,1,3
+309,Thatch,1059,Mud,Mud,Not Attached,Rectangular,4,4
+310,Metal,220,RC,Mud,Not Attached,Rectangular,1,2
+311,Metal,441,RC,Mud,Not Attached,Rectangular,4,3
+312,Concrete,654,Brick,RC,Not Attached,Rectangular,4,4
+313,Tile,1162,RC,Mud,Attached,Rectangular,4,1
+314,Thatch,820,RC,RC,Attached,Square,4,2
+315,Metal,502,Brick,Brick,Not Attached,Rectangular,1,1
+316,Concrete,1819,Mud,Brick,Not Attached,T-Shaped,3,1
+317,Concrete,1818,Brick,Mud,Attached,Square,4,2
+318,Thatch,1002,Mud,Brick,Not Attached,T-Shaped,2,4
+319,Thatch,1163,Brick,Mud,Attached,Rectangular,4,4
+320,Concrete,268,Brick,RC,Attached,Rectangular,1,2
+321,Metal,1352,RC,Brick,Attached,T-Shaped,4,2
+322,Concrete,395,Brick,Mud,Attached,T-Shaped,2,3
+323,Tile,339,Brick,Brick,Not Attached,T-Shaped,1,3
+324,Tile,1667,Mud,Brick,Not Attached,Square,4,1
+325,Thatch,482,RC,Mud,Attached,Rectangular,2,2
+326,Metal,511,Mud,Brick,Not Attached,T-Shaped,1,4
+327,Metal,945,Mud,Brick,Not Attached,Rectangular,4,1
+328,Tile,1758,RC,Brick,Not Attached,T-Shaped,2,1
+329,Concrete,1888,RC,Brick,Not Attached,Rectangular,1,1
+330,Thatch,476,RC,RC,Attached,Square,4,1
+331,Concrete,260,Brick,Brick,Not Attached,Rectangular,1,4
+332,Concrete,1542,RC,Brick,Attached,T-Shaped,2,1
+333,Concrete,251,RC,Mud,Attached,Rectangular,4,2
+334,Metal,352,RC,RC,Not Attached,Square,4,3
+335,Tile,1972,Mud,Mud,Attached,Square,4,4
+336,Metal,1534,Mud,Mud,Not Attached,Rectangular,2,2
+337,Tile,743,Brick,Mud,Not Attached,T-Shaped,3,2
+338,Thatch,766,Mud,RC,Attached,Square,4,2
+339,Thatch,1612,Brick,Mud,Not Attached,Square,2,3
+340,Concrete,1771,Mud,Mud,Attached,Rectangular,1,3
+341,Tile,821,RC,Mud,Attached,Square,1,3
+342,Tile,1400,Mud,Brick,Not Attached,Square,2,2
+343,Tile,1585,Brick,Mud,Not Attached,T-Shaped,3,3
+344,Concrete,513,Mud,RC,Not Attached,T-Shaped,2,1
+345,Concrete,1006,RC,RC,Attached,T-Shaped,1,3
+346,Thatch,1047,Brick,Brick,Not Attached,Rectangular,1,4
+347,Metal,296,RC,RC,Attached,Square,4,2
+348,Tile,1080,RC,RC,Attached,Rectangular,3,2
+349,Tile,1436,Brick,Brick,Not Attached,Square,2,1
+350,Metal,1028,RC,Mud,Not Attached,Square,1,3
+351,Tile,336,RC,Brick,Not Attached,Square,1,3
+352,Concrete,1229,Mud,Mud,Attached,T-Shaped,1,4
+353,Concrete,1210,RC,Mud,Not Attached,Rectangular,2,1
+354,Tile,308,RC,RC,Attached,Rectangular,2,4
+355,Concrete,746,RC,Brick,Not Attached,Square,3,4
+356,Concrete,1262,RC,RC,Not Attached,Rectangular,4,2
+357,Tile,861,Brick,RC,Attached,T-Shaped,4,2
+358,Thatch,624,Mud,Mud,Attached,Rectangular,4,3
+359,Metal,829,RC,RC,Not Attached,Square,1,3
+360,Concrete,460,RC,Brick,Not Attached,T-Shaped,4,4
+361,Thatch,1649,Brick,RC,Not Attached,T-Shaped,1,3
+362,Concrete,286,RC,RC,Not Attached,Square,3,4
+363,Concrete,664,Brick,Mud,Not Attached,Rectangular,1,3
+364,Metal,275,Mud,Brick,Attached,Square,3,3
+365,Concrete,670,Mud,RC,Attached,Rectangular,3,2
+366,Metal,613,RC,Mud,Attached,Rectangular,4,2
+367,Metal,1024,RC,RC,Attached,T-Shaped,4,2
+368,Metal,1094,RC,Brick,Not Attached,Square,1,2
+369,Thatch,925,Brick,RC,Attached,T-Shaped,2,1
+370,Tile,656,RC,RC,Attached,Square,4,2
+371,Thatch,1508,RC,Mud,Attached,Square,4,1
+372,Tile,1462,Mud,RC,Not Attached,T-Shaped,2,2
+373,Tile,1900,RC,Mud,Attached,Square,2,3
+374,Metal,1822,Mud,Brick,Not Attached,Square,4,4
+375,Concrete,852,RC,RC,Attached,Rectangular,2,3
+376,Metal,871,Mud,Brick,Not Attached,Square,1,3
+377,Concrete,1781,RC,Brick,Attached,Square,3,1
+378,Tile,1595,Mud,RC,Not Attached,T-Shaped,3,2
+379,Metal,694,Brick,Mud,Attached,T-Shaped,4,4
+380,Concrete,1847,Mud,Brick,Not Attached,Square,4,4
+381,Thatch,1268,Mud,Brick,Not Attached,Rectangular,1,2
+382,Concrete,1624,Mud,RC,Attached,Rectangular,2,1
+383,Metal,1470,RC,RC,Not Attached,T-Shaped,4,1
+384,Thatch,1839,RC,RC,Not Attached,Square,3,1
+385,Concrete,796,RC,RC,Attached,Square,1,4
+386,Concrete,649,Brick,RC,Attached,Rectangular,1,1
+387,Concrete,684,Brick,RC,Not Attached,Rectangular,2,1
+388,Concrete,845,Mud,Mud,Attached,Rectangular,4,4
+389,Concrete,819,Brick,Brick,Attached,T-Shaped,4,4
+390,Thatch,1241,Mud,Mud,Attached,Square,1,3
+391,Tile,1829,Mud,Mud,Not Attached,T-Shaped,3,4
+392,Thatch,861,Mud,RC,Not Attached,Square,4,2
+393,Thatch,957,Brick,Brick,Not Attached,T-Shaped,3,4
+394,Thatch,488,RC,Mud,Not Attached,Square,1,4
+395,Tile,1637,Brick,RC,Not Attached,Rectangular,4,1
+396,Metal,920,Mud,RC,Not Attached,Rectangular,3,3
+397,Tile,837,Mud,Brick,Not Attached,Rectangular,1,1
+398,Thatch,434,Brick,Mud,Attached,T-Shaped,3,3
+399,Concrete,615,Mud,Mud,Not Attached,Rectangular,4,1
+400,Concrete,1137,Mud,Mud,Not Attached,Square,2,2
+401,Thatch,698,Brick,RC,Attached,T-Shaped,3,1
+402,Concrete,1173,Brick,Brick,Attached,Square,2,1
+403,Thatch,833,Brick,Brick,Attached,T-Shaped,4,2
+404,Concrete,1873,Mud,Mud,Not Attached,Square,2,2
+405,Tile,1219,Mud,RC,Attached,Square,1,4
+406,Metal,314,RC,Mud,Not Attached,T-Shaped,2,1
+407,Metal,1131,RC,Brick,Not Attached,T-Shaped,3,2
+408,Tile,873,Brick,RC,Not Attached,Rectangular,3,2
+409,Tile,1936,RC,Mud,Attached,Rectangular,2,4
+410,Thatch,1457,Mud,Mud,Attached,Square,1,3
+411,Thatch,1763,RC,RC,Not Attached,Square,4,2
+412,Thatch,1234,Mud,Brick,Not Attached,Square,2,2
+413,Concrete,405,Brick,RC,Not Attached,T-Shaped,3,1
+414,Thatch,1902,Brick,Mud,Attached,T-Shaped,3,4
+415,Tile,446,Mud,Mud,Not Attached,Rectangular,2,1
+416,Metal,1782,RC,Mud,Attached,Square,2,3
+417,Concrete,957,Brick,Mud,Not Attached,Rectangular,2,4
+418,Thatch,1350,Brick,Brick,Attached,T-Shaped,4,1
+419,Concrete,346,RC,Brick,Not Attached,T-Shaped,3,2
+420,Concrete,317,RC,Mud,Attached,T-Shaped,3,2
+421,Thatch,1605,Mud,Brick,Attached,Rectangular,3,4
+422,Concrete,611,RC,Brick,Attached,T-Shaped,4,2
+423,Metal,1887,RC,Brick,Attached,Square,1,1
+424,Tile,1807,RC,Mud,Attached,Rectangular,3,4
+425,Tile,562,Mud,RC,Attached,T-Shaped,3,2
+426,Metal,1732,Mud,RC,Not Attached,Rectangular,1,2
+427,Concrete,336,Brick,RC,Not Attached,Rectangular,4,3
+428,Thatch,1398,Mud,Mud,Not Attached,T-Shaped,1,3
+429,Concrete,1512,Brick,Brick,Not Attached,T-Shaped,1,4
+430,Metal,1157,RC,Brick,Attached,Rectangular,1,3
+431,Concrete,1704,Brick,Mud,Not Attached,Rectangular,1,1
+432,Tile,218,Brick,Mud,Attached,T-Shaped,4,2
+433,Concrete,394,RC,RC,Attached,Square,4,2
+434,Metal,529,Brick,RC,Attached,Rectangular,1,2
+435,Tile,374,Mud,Mud,Not Attached,Rectangular,2,4
+436,Concrete,1201,Mud,RC,Attached,Square,2,4
+437,Concrete,648,Mud,Brick,Not Attached,T-Shaped,2,3
+438,Tile,1145,Mud,Mud,Not Attached,T-Shaped,2,2
+439,Thatch,1577,Brick,Mud,Not Attached,Square,3,2
+440,Tile,1722,Brick,Brick,Not Attached,T-Shaped,4,2
+441,Thatch,340,RC,Brick,Not Attached,T-Shaped,4,2
+442,Metal,957,Brick,Brick,Attached,Rectangular,1,2
+443,Metal,1129,Brick,RC,Attached,Rectangular,3,1
+444,Tile,292,Brick,Mud,Not Attached,Rectangular,1,2
+445,Tile,438,RC,RC,Attached,Square,1,1
+446,Metal,404,Mud,Brick,Not Attached,T-Shaped,4,2
+447,Thatch,759,Brick,RC,Attached,T-Shaped,3,4
+448,Metal,1656,RC,Brick,Attached,Rectangular,2,4
+449,Tile,444,RC,RC,Attached,Rectangular,4,1
+450,Metal,1031,RC,RC,Attached,Square,3,2
+451,Tile,1540,Mud,Brick,Attached,T-Shaped,3,4
+452,Tile,1124,Brick,RC,Attached,Square,4,4
+453,Metal,494,RC,Mud,Attached,T-Shaped,4,2
+454,Thatch,839,Mud,RC,Attached,Square,1,2
+455,Concrete,1055,RC,RC,Attached,Rectangular,1,4
+456,Metal,1505,RC,Mud,Attached,Square,1,2
+457,Concrete,216,RC,Brick,Attached,Square,2,3
+458,Metal,270,RC,Mud,Attached,Rectangular,4,2
+459,Concrete,1492,RC,RC,Attached,T-Shaped,3,4
+460,Thatch,1548,Mud,Brick,Not Attached,T-Shaped,4,4
+461,Thatch,504,Brick,RC,Attached,Rectangular,3,1
+462,Metal,1674,Brick,RC,Attached,Square,2,3
+463,Tile,1230,Brick,Mud,Attached,Square,4,4
+464,Concrete,1537,Brick,Mud,Attached,Square,3,3
+465,Tile,1016,Mud,Brick,Attached,T-Shaped,3,2
+466,Tile,1326,Mud,Brick,Attached,Square,1,4
+467,Tile,1020,Mud,Brick,Not Attached,T-Shaped,2,1
+468,Thatch,392,RC,RC,Not Attached,Square,4,4
+469,Metal,1976,RC,Mud,Not Attached,Rectangular,1,1
+470,Metal,1797,RC,Mud,Attached,Rectangular,2,3
+471,Thatch,728,Brick,Mud,Attached,T-Shaped,1,1
+472,Thatch,370,RC,Brick,Attached,T-Shaped,4,2
+473,Metal,1760,Brick,Mud,Not Attached,Rectangular,3,2
+474,Tile,450,RC,Mud,Attached,Rectangular,4,2
+475,Concrete,1988,Brick,Mud,Attached,Square,2,4
+476,Concrete,1610,RC,Brick,Not Attached,Rectangular,4,2
+477,Concrete,1430,RC,Mud,Not Attached,T-Shaped,2,2
+478,Tile,740,Mud,Brick,Attached,Rectangular,1,4
+479,Metal,1852,RC,Mud,Attached,T-Shaped,2,3
+480,Thatch,615,RC,Mud,Attached,T-Shaped,3,2
+481,Metal,993,Mud,Mud,Attached,Square,3,2
+482,Tile,1603,Brick,Brick,Not Attached,Square,3,4
+483,Thatch,1367,Mud,Brick,Attached,Square,1,3
+484,Tile,224,Mud,Mud,Attached,Square,2,3
+485,Concrete,867,Brick,RC,Not Attached,Rectangular,1,3
+486,Concrete,1296,RC,Brick,Attached,Square,4,4
+487,Tile,831,Brick,Brick,Attached,Rectangular,4,1
+488,Thatch,1316,RC,Mud,Not Attached,Square,4,1
+489,Thatch,704,RC,RC,Not Attached,Square,4,2
+490,Metal,1821,Brick,Mud,Attached,T-Shaped,3,2
+491,Concrete,535,Mud,Brick,Not Attached,Rectangular,2,2
+492,Metal,624,Brick,Brick,Not Attached,T-Shaped,3,1
+493,Metal,698,RC,Mud,Attached,Square,2,4
+494,Tile,1587,Brick,Mud,Not Attached,Rectangular,2,2
+495,Tile,1146,Brick,RC,Attached,Square,1,4
+496,Metal,829,RC,RC,Attached,T-Shaped,4,2
+497,Concrete,1968,Mud,Brick,Attached,Rectangular,2,4
+498,Tile,1422,Brick,RC,Attached,T-Shaped,4,4
+499,Metal,917,RC,RC,Not Attached,Square,4,1
+500,Metal,1636,RC,Brick,Attached,Square,4,4
+501,Metal,538,Brick,Brick,Attached,Square,3,3
+502,Metal,858,Mud,Brick,Attached,Rectangular,4,1
+503,Metal,1161,Brick,Brick,Attached,T-Shaped,2,2
+504,Metal,628,Mud,Mud,Not Attached,T-Shaped,3,1
+505,Tile,1098,Mud,Brick,Not Attached,Square,4,3
+506,Concrete,338,Mud,Brick,Not Attached,T-Shaped,1,3
+507,Metal,1916,Mud,Brick,Attached,Rectangular,4,4
+508,Thatch,1141,Brick,RC,Not Attached,Square,4,3
+509,Tile,741,RC,Brick,Not Attached,Square,3,3
+510,Tile,256,RC,Mud,Attached,Square,2,3
+511,Metal,1455,RC,Mud,Not Attached,Rectangular,4,3
+512,Tile,857,RC,Brick,Attached,Square,3,2
+513,Metal,634,RC,Mud,Not Attached,Square,3,2
+514,Concrete,583,RC,RC,Not Attached,Square,2,1
+515,Concrete,759,Brick,Brick,Not Attached,Square,3,4
+516,Tile,393,Mud,Mud,Not Attached,T-Shaped,2,2
+517,Tile,1959,RC,Mud,Attached,Square,1,3
+518,Thatch,1871,Brick,Brick,Attached,Rectangular,4,4
+519,Tile,733,RC,Mud,Not Attached,Square,3,2
+520,Thatch,717,RC,Brick,Attached,Square,1,1
+521,Concrete,915,Mud,Mud,Not Attached,T-Shaped,3,3
+522,Concrete,950,Mud,RC,Not Attached,Square,3,4
+523,Metal,384,Mud,Mud,Not Attached,T-Shaped,1,2
+524,Concrete,491,RC,Mud,Not Attached,Rectangular,3,4
+525,Thatch,1558,RC,Brick,Not Attached,T-Shaped,3,2
+526,Tile,931,RC,Mud,Not Attached,Square,1,1
+527,Metal,315,Mud,Brick,Attached,Rectangular,3,3
+528,Thatch,1024,Brick,RC,Attached,Square,2,1
+529,Tile,1272,RC,Brick,Not Attached,T-Shaped,3,3
+530,Metal,884,RC,Brick,Attached,Rectangular,4,3
+531,Concrete,281,RC,Mud,Not Attached,Rectangular,3,4
+532,Thatch,1033,Brick,RC,Attached,T-Shaped,4,2
+533,Tile,532,RC,Brick,Attached,T-Shaped,4,1
+534,Metal,756,Brick,Mud,Attached,Rectangular,3,1
+535,Metal,534,RC,Mud,Not Attached,Rectangular,1,1
+536,Concrete,731,Brick,Brick,Attached,T-Shaped,2,4
+537,Tile,420,RC,Mud,Not Attached,Square,2,4
+538,Concrete,834,Mud,Brick,Not Attached,Rectangular,3,4
+539,Concrete,1969,Mud,Brick,Not Attached,T-Shaped,1,3
+540,Tile,1956,Mud,Brick,Attached,Square,1,1
+541,Tile,522,Mud,RC,Attached,Rectangular,2,3
+542,Tile,202,RC,Brick,Attached,Rectangular,1,1
+543,Thatch,1917,Mud,Mud,Not Attached,T-Shaped,3,1
+544,Tile,405,Brick,RC,Not Attached,Square,3,2
+545,Metal,239,Mud,Mud,Attached,Rectangular,1,1
+546,Concrete,258,Mud,RC,Not Attached,Square,3,4
+547,Thatch,1150,Mud,RC,Attached,Square,4,4
+548,Tile,773,RC,RC,Attached,Rectangular,2,4
+549,Thatch,843,Mud,RC,Attached,Square,3,2
+550,Tile,1730,Brick,Mud,Attached,Rectangular,1,2
+551,Thatch,1795,Mud,Brick,Not Attached,Square,2,3
+552,Concrete,1042,Mud,Mud,Attached,Rectangular,3,1
+553,Concrete,1345,Mud,Brick,Attached,T-Shaped,2,1
+554,Metal,1702,Brick,Mud,Attached,Rectangular,1,4
+555,Metal,818,Mud,RC,Attached,Rectangular,4,4
+556,Tile,295,Brick,RC,Attached,Rectangular,4,4
+557,Concrete,1637,Brick,Brick,Attached,Square,3,4
+558,Thatch,1458,Mud,Brick,Attached,T-Shaped,4,4
+559,Thatch,1097,Brick,Mud,Not Attached,Square,3,4
+560,Thatch,1285,RC,Brick,Not Attached,Square,2,1
+561,Metal,1479,Mud,Mud,Not Attached,Rectangular,3,2
+562,Thatch,760,Mud,Brick,Not Attached,Square,3,4
+563,Metal,1104,Brick,Brick,Attached,Rectangular,3,1
+564,Metal,547,Brick,Brick,Not Attached,T-Shaped,4,4
+565,Tile,870,Mud,RC,Not Attached,Square,3,3
+566,Thatch,1347,RC,RC,Not Attached,Square,1,3
+567,Thatch,1705,Brick,Mud,Attached,Square,3,1
+568,Concrete,516,Brick,Brick,Not Attached,Rectangular,2,2
+569,Tile,1727,RC,Mud,Not Attached,Rectangular,1,3
+570,Concrete,918,RC,Brick,Attached,Square,2,3
+571,Tile,1271,Mud,RC,Not Attached,Square,2,2
+572,Thatch,1632,RC,RC,Attached,T-Shaped,2,3
+573,Metal,1359,Mud,Brick,Not Attached,T-Shaped,1,4
+574,Metal,1424,RC,Brick,Attached,T-Shaped,1,2
+575,Metal,449,Brick,RC,Not Attached,T-Shaped,4,3
+576,Metal,513,Mud,RC,Not Attached,T-Shaped,1,2
+577,Metal,1591,Mud,Mud,Not Attached,Rectangular,3,4
+578,Concrete,1652,Mud,RC,Attached,T-Shaped,2,3
+579,Tile,1006,RC,Brick,Not Attached,T-Shaped,4,1
+580,Thatch,1703,Brick,Mud,Attached,Square,1,3
+581,Concrete,1537,Mud,Brick,Attached,Rectangular,2,3
+582,Tile,1723,Mud,Mud,Attached,T-Shaped,1,4
+583,Metal,1944,Mud,Brick,Attached,T-Shaped,4,1
+584,Tile,1578,Mud,RC,Not Attached,T-Shaped,1,1
+585,Tile,684,Brick,Brick,Not Attached,Square,1,1
+586,Metal,1434,RC,Mud,Not Attached,Square,2,4
+587,Metal,1927,Brick,Brick,Attached,Square,3,4
+588,Metal,243,Mud,Mud,Not Attached,T-Shaped,1,4
+589,Thatch,1764,Brick,Brick,Attached,Square,4,4
+590,Metal,770,Mud,RC,Attached,T-Shaped,1,4
+591,Thatch,782,RC,RC,Attached,Rectangular,1,1
+592,Metal,1315,RC,Brick,Not Attached,T-Shaped,3,2
+593,Thatch,1488,RC,Brick,Not Attached,Square,2,4
+594,Tile,1094,Mud,Brick,Attached,Rectangular,4,2
+595,Concrete,419,Brick,Mud,Not Attached,T-Shaped,2,3
+596,Tile,1124,RC,Brick,Not Attached,Rectangular,2,3
+597,Tile,1665,Mud,Brick,Attached,Rectangular,2,4
+598,Metal,600,Mud,Mud,Attached,Rectangular,1,3
+599,Thatch,1623,Brick,RC,Not Attached,T-Shaped,3,2
+600,Concrete,926,RC,Brick,Attached,Square,1,3
+601,Metal,1190,Mud,Brick,Attached,T-Shaped,4,3
+602,Metal,1098,Brick,RC,Not Attached,Square,3,2
+603,Metal,1799,RC,RC,Not Attached,T-Shaped,2,3
+604,Tile,1057,Brick,Mud,Attached,T-Shaped,3,4
+605,Thatch,1003,Brick,Brick,Not Attached,T-Shaped,4,2
+606,Thatch,689,Mud,Brick,Attached,Square,1,2
+607,Concrete,1708,Mud,Mud,Attached,T-Shaped,1,1
+608,Thatch,1980,Mud,RC,Not Attached,Rectangular,2,1
+609,Thatch,1693,Brick,Mud,Attached,T-Shaped,1,2
+610,Metal,1797,Mud,RC,Attached,Rectangular,1,2
+611,Metal,1137,Brick,Mud,Attached,Square,4,1
+612,Tile,1043,Brick,RC,Not Attached,Square,3,4
+613,Metal,1905,Mud,Mud,Not Attached,T-Shaped,1,3
+614,Metal,1668,RC,RC,Not Attached,T-Shaped,4,3
+615,Metal,1492,RC,RC,Attached,T-Shaped,4,3
+616,Metal,466,RC,RC,Attached,Rectangular,2,2
+617,Tile,253,Brick,RC,Not Attached,Square,4,4
+618,Metal,727,Brick,RC,Not Attached,Rectangular,2,1
+619,Concrete,1743,Brick,Brick,Not Attached,Rectangular,1,4
+620,Concrete,815,Mud,RC,Attached,T-Shaped,2,4
+621,Concrete,1282,Brick,Brick,Not Attached,T-Shaped,4,3
+622,Concrete,1263,Mud,RC,Attached,Rectangular,3,1
+623,Metal,1460,Mud,Brick,Not Attached,Rectangular,3,4
+624,Concrete,1154,RC,Brick,Attached,T-Shaped,1,1
+625,Metal,585,RC,Mud,Attached,T-Shaped,1,2
+626,Tile,1829,RC,RC,Not Attached,Rectangular,3,3
+627,Concrete,933,Mud,Mud,Attached,T-Shaped,2,1
+628,Thatch,915,Mud,Mud,Not Attached,T-Shaped,1,2
+629,Concrete,849,Mud,RC,Attached,Rectangular,4,2
+630,Concrete,499,Brick,Mud,Attached,Rectangular,1,2
+631,Metal,594,Mud,RC,Not Attached,Square,2,4
+632,Concrete,1430,RC,Mud,Attached,Rectangular,1,4
+633,Thatch,1559,RC,RC,Not Attached,T-Shaped,4,3
+634,Metal,792,Mud,RC,Not Attached,Rectangular,4,3
+635,Metal,1953,Mud,RC,Not Attached,Rectangular,4,2
+636,Tile,713,RC,Brick,Attached,Rectangular,2,3
+637,Tile,1401,Mud,Mud,Attached,Square,2,4
+638,Concrete,595,RC,Brick,Attached,Square,4,3
+639,Tile,570,Brick,Mud,Not Attached,T-Shaped,4,1
+640,Tile,1057,RC,Mud,Not Attached,Square,2,4
+641,Tile,990,Brick,Mud,Attached,Rectangular,2,2
+642,Metal,857,Mud,Brick,Attached,Square,2,2
+643,Metal,1541,Mud,Mud,Not Attached,Rectangular,3,3
+644,Metal,935,Brick,Brick,Attached,Square,2,4
+645,Tile,1592,Mud,RC,Not Attached,Square,4,2
+646,Metal,583,Brick,Mud,Attached,Square,3,2
+647,Tile,261,Mud,Mud,Not Attached,Rectangular,2,4
+648,Metal,704,RC,RC,Attached,Square,4,4
+649,Metal,438,Mud,RC,Attached,Rectangular,1,2
+650,Thatch,394,RC,Mud,Not Attached,Rectangular,3,3
+651,Concrete,877,RC,RC,Not Attached,T-Shaped,4,3
+652,Tile,1445,Brick,Brick,Not Attached,Square,1,3
+653,Thatch,260,Mud,Brick,Attached,T-Shaped,4,1
+654,Metal,1352,Brick,Mud,Not Attached,T-Shaped,2,4
+655,Tile,1189,Mud,Brick,Not Attached,Rectangular,2,2
+656,Metal,884,RC,Brick,Attached,Square,1,1
+657,Concrete,355,RC,Mud,Not Attached,Rectangular,2,3
+658,Thatch,1601,Mud,RC,Not Attached,Rectangular,4,1
+659,Concrete,1845,Mud,Mud,Not Attached,Square,1,2
+660,Thatch,1122,Brick,Brick,Attached,Rectangular,4,2
+661,Metal,1067,Mud,Mud,Attached,Square,4,4
+662,Concrete,1102,Mud,Mud,Attached,Square,4,3
+663,Concrete,1809,Mud,Brick,Not Attached,Rectangular,2,3
+664,Metal,1198,Brick,Brick,Attached,Rectangular,2,1
+665,Concrete,1660,Mud,Mud,Not Attached,T-Shaped,4,3
+666,Tile,1174,RC,Brick,Not Attached,Rectangular,3,1
+667,Thatch,1430,Brick,Brick,Not Attached,Square,4,2
+668,Thatch,587,Brick,Brick,Attached,T-Shaped,4,2
+669,Thatch,1703,RC,Brick,Attached,Square,1,2
+670,Tile,1086,RC,Brick,Not Attached,T-Shaped,4,2
+671,Thatch,1037,RC,Brick,Not Attached,Rectangular,2,2
+672,Metal,1563,Mud,RC,Attached,Rectangular,1,1
+673,Concrete,539,RC,Mud,Attached,Rectangular,3,2
+674,Tile,403,Mud,Brick,Attached,Square,1,1
+675,Thatch,360,Brick,Mud,Not Attached,T-Shaped,3,2
+676,Metal,1763,Brick,RC,Attached,Square,1,1
+677,Concrete,591,RC,Brick,Attached,T-Shaped,1,1
+678,Concrete,968,Mud,Mud,Attached,Rectangular,3,1
+679,Tile,1900,RC,Brick,Not Attached,Square,2,3
+680,Tile,774,RC,Brick,Attached,Rectangular,2,1
+681,Tile,733,Mud,Brick,Not Attached,Square,2,1
+682,Metal,1293,RC,Brick,Not Attached,Rectangular,1,2
+683,Metal,1092,Brick,Brick,Not Attached,Square,4,1
+684,Tile,604,RC,Brick,Attached,Square,1,1
+685,Thatch,807,Mud,Brick,Attached,T-Shaped,4,4
+686,Concrete,1898,Mud,RC,Attached,Rectangular,4,3
+687,Concrete,1814,Brick,RC,Not Attached,T-Shaped,2,4
+688,Metal,1740,Mud,Brick,Attached,T-Shaped,4,2
+689,Concrete,1027,Mud,Brick,Not Attached,Rectangular,1,3
+690,Thatch,1343,Brick,RC,Attached,Square,1,3
+691,Concrete,889,RC,RC,Attached,T-Shaped,2,4
+692,Metal,1911,Brick,RC,Attached,Rectangular,3,3
+693,Metal,1101,RC,Brick,Attached,Square,1,4
+694,Thatch,1440,Brick,Mud,Not Attached,T-Shaped,4,1
+695,Thatch,255,RC,Mud,Not Attached,T-Shaped,1,4
+696,Concrete,565,Brick,Mud,Not Attached,T-Shaped,1,3
+697,Concrete,1922,RC,Mud,Not Attached,Square,1,3
+698,Metal,1727,Brick,Brick,Attached,T-Shaped,3,2
+699,Thatch,1967,RC,Mud,Not Attached,Square,4,2
+700,Thatch,1990,Brick,RC,Not Attached,T-Shaped,2,2
+701,Thatch,654,Mud,RC,Not Attached,Rectangular,1,2
+702,Concrete,303,RC,Mud,Attached,T-Shaped,4,3
+703,Thatch,276,Brick,RC,Not Attached,Rectangular,4,2
+704,Metal,429,RC,Brick,Not Attached,Rectangular,2,4
+705,Metal,1481,RC,Mud,Attached,Rectangular,1,1
+706,Concrete,1487,Brick,Mud,Attached,Square,3,3
+707,Tile,530,RC,Brick,Not Attached,Rectangular,4,2
+708,Concrete,1405,Brick,RC,Not Attached,T-Shaped,2,3
+709,Tile,1092,Mud,Brick,Attached,Square,3,2
+710,Thatch,1991,RC,Brick,Not Attached,Rectangular,4,3
+711,Concrete,1773,Mud,RC,Attached,Square,1,2
+712,Metal,887,RC,Brick,Not Attached,Square,4,1
+713,Thatch,226,RC,RC,Not Attached,Square,3,2
+714,Metal,1499,RC,RC,Not Attached,T-Shaped,3,4
+715,Thatch,1875,Brick,Brick,Not Attached,Rectangular,1,3
+716,Concrete,498,Mud,RC,Not Attached,Square,1,3
+717,Tile,1156,RC,Brick,Attached,Square,2,4
+718,Thatch,998,Brick,RC,Attached,Square,1,4
+719,Tile,1314,RC,Mud,Not Attached,Rectangular,2,1
+720,Thatch,679,Brick,RC,Not Attached,Square,3,3
+721,Metal,772,RC,RC,Not Attached,Square,3,1
+722,Metal,657,Mud,Brick,Attached,T-Shaped,4,3
+723,Thatch,1674,Mud,RC,Attached,Rectangular,4,3
+724,Tile,564,RC,Mud,Attached,T-Shaped,2,1
+725,Concrete,1058,Brick,Mud,Attached,Rectangular,1,3
+726,Concrete,1898,RC,RC,Attached,Rectangular,1,3
+727,Metal,550,Brick,RC,Attached,Rectangular,4,1
+728,Concrete,1878,RC,Mud,Attached,T-Shaped,3,2
+729,Metal,1623,Brick,Brick,Attached,T-Shaped,2,1
+730,Concrete,452,Mud,Mud,Not Attached,T-Shaped,3,3
+731,Thatch,980,RC,Mud,Attached,T-Shaped,3,4
+732,Metal,1002,Mud,RC,Attached,Square,1,2
+733,Metal,1211,Mud,RC,Attached,Square,2,4
+734,Thatch,658,RC,Mud,Attached,Square,3,2
+735,Metal,1922,RC,Brick,Not Attached,Rectangular,4,4
+736,Concrete,1116,Brick,Mud,Attached,Square,4,2
+737,Concrete,698,Brick,Mud,Not Attached,Rectangular,1,1
+738,Metal,1149,Mud,Brick,Not Attached,T-Shaped,4,2
+739,Concrete,707,Brick,Mud,Not Attached,Rectangular,4,2
+740,Tile,1527,Brick,Mud,Attached,Rectangular,3,2
+741,Metal,700,RC,RC,Attached,Square,4,3
+742,Thatch,1002,Brick,Brick,Attached,T-Shaped,4,4
+743,Tile,797,Mud,RC,Not Attached,T-Shaped,3,1
+744,Metal,365,Brick,RC,Not Attached,Square,1,4
+745,Thatch,1638,Mud,Brick,Not Attached,T-Shaped,1,4
+746,Concrete,661,RC,Brick,Not Attached,T-Shaped,2,1
+747,Thatch,1119,Mud,Mud,Attached,T-Shaped,4,3
+748,Tile,313,Brick,RC,Attached,Square,3,2
+749,Concrete,1656,RC,Brick,Attached,T-Shaped,2,3
+750,Metal,1191,Brick,RC,Not Attached,Rectangular,1,3
+751,Concrete,1579,RC,RC,Not Attached,Rectangular,1,2
+752,Metal,1918,RC,Brick,Attached,T-Shaped,3,4
+753,Metal,406,Brick,Mud,Attached,Square,2,2
+754,Thatch,1991,Brick,RC,Not Attached,Square,2,1
+755,Thatch,1458,RC,Brick,Attached,Square,3,2
+756,Thatch,1665,RC,Mud,Attached,T-Shaped,3,4
+757,Tile,1578,Brick,RC,Not Attached,T-Shaped,2,3
+758,Tile,714,Mud,Brick,Not Attached,Rectangular,1,3
+759,Thatch,1431,Brick,RC,Not Attached,Square,4,2
+760,Tile,908,RC,Brick,Attached,Rectangular,1,1
+761,Concrete,1348,Brick,Brick,Not Attached,Rectangular,3,4
+762,Concrete,337,Mud,RC,Attached,Square,2,3
+763,Tile,538,Brick,RC,Attached,T-Shaped,2,2
+764,Tile,736,RC,Brick,Not Attached,T-Shaped,4,1
+765,Concrete,267,Brick,Mud,Attached,Rectangular,2,1
+766,Metal,1796,RC,RC,Not Attached,Rectangular,4,3
+767,Concrete,1764,RC,Brick,Not Attached,Rectangular,1,3
+768,Concrete,582,Brick,Brick,Attached,Rectangular,1,4
+769,Tile,218,RC,Mud,Attached,Square,2,1
+770,Concrete,882,RC,Mud,Not Attached,Rectangular,2,4
+771,Tile,1673,Mud,Mud,Not Attached,Rectangular,3,1
+772,Tile,273,Mud,RC,Not Attached,T-Shaped,3,1
+773,Thatch,772,Mud,Brick,Not Attached,T-Shaped,2,2
+774,Concrete,1138,Mud,Brick,Not Attached,T-Shaped,2,3
+775,Metal,1888,RC,Brick,Not Attached,Square,1,1
+776,Thatch,1499,Brick,Mud,Attached,Square,2,4
+777,Tile,1271,RC,Brick,Attached,T-Shaped,3,3
+778,Tile,410,RC,RC,Attached,T-Shaped,1,4
+779,Metal,1054,RC,Mud,Attached,Rectangular,4,3
+780,Tile,850,Brick,Mud,Not Attached,Rectangular,3,3
+781,Concrete,1845,Mud,Mud,Attached,Square,3,1
+782,Thatch,1193,RC,Mud,Attached,Square,1,2
+783,Tile,894,RC,RC,Not Attached,Rectangular,4,1
+784,Tile,739,Mud,Brick,Attached,T-Shaped,3,3
+785,Metal,1932,RC,RC,Not Attached,Rectangular,2,1
+786,Concrete,1414,Brick,Brick,Not Attached,Square,3,1
+787,Tile,1538,RC,RC,Not Attached,Square,1,3
+788,Metal,1100,RC,Mud,Not Attached,Rectangular,1,3
+789,Tile,1786,Mud,Mud,Not Attached,Rectangular,1,1
+790,Metal,1884,RC,RC,Attached,Rectangular,3,1
+791,Metal,979,RC,RC,Attached,Square,4,1
+792,Concrete,1785,Brick,Brick,Attached,T-Shaped,2,4
+793,Tile,1981,Mud,RC,Not Attached,Rectangular,1,1
+794,Concrete,1336,Mud,RC,Attached,Square,4,4
+795,Metal,369,Brick,Brick,Attached,Square,2,2
+796,Thatch,1691,RC,Brick,Attached,Square,1,4
+797,Tile,1901,Mud,Brick,Attached,Rectangular,2,1
+798,Thatch,1237,Mud,RC,Not Attached,Rectangular,2,2
+799,Tile,1938,RC,Brick,Attached,T-Shaped,4,4
+800,Concrete,487,RC,Mud,Not Attached,Square,2,4
+801,Concrete,388,Mud,Mud,Not Attached,Rectangular,1,3
+802,Concrete,1113,RC,Mud,Attached,Square,4,2
+803,Concrete,1378,Mud,RC,Not Attached,Square,3,3
+804,Concrete,1790,RC,Mud,Not Attached,T-Shaped,3,2
+805,Thatch,893,RC,RC,Not Attached,Rectangular,4,4
+806,Concrete,1945,Brick,RC,Not Attached,Rectangular,3,3
+807,Metal,1087,RC,Mud,Not Attached,Square,2,1
+808,Metal,670,Brick,Brick,Not Attached,Square,1,4
+809,Thatch,1298,RC,RC,Not Attached,T-Shaped,2,2
+810,Tile,476,Mud,Mud,Attached,T-Shaped,4,2
+811,Metal,1139,Mud,RC,Attached,T-Shaped,1,3
+812,Tile,1868,RC,Brick,Not Attached,T-Shaped,4,3
+813,Thatch,1566,RC,Brick,Not Attached,T-Shaped,4,2
+814,Tile,1648,Mud,Mud,Attached,T-Shaped,4,4
+815,Tile,770,RC,RC,Attached,Square,2,3
+816,Tile,1734,Brick,RC,Attached,T-Shaped,1,1
+817,Tile,1056,Brick,RC,Attached,Square,1,2
+818,Thatch,1200,Brick,RC,Not Attached,Square,1,1
+819,Metal,1405,Brick,Mud,Not Attached,Rectangular,2,2
+820,Concrete,657,Brick,Brick,Attached,Square,3,1
+821,Tile,1117,RC,Mud,Attached,Square,2,4
+822,Metal,1032,RC,RC,Attached,T-Shaped,2,2
+823,Metal,1287,Brick,RC,Attached,Square,4,4
+824,Thatch,1038,RC,Brick,Not Attached,T-Shaped,1,3
+825,Metal,1483,RC,RC,Attached,T-Shaped,1,2
+826,Thatch,392,Brick,Mud,Attached,T-Shaped,3,4
+827,Tile,1878,RC,Mud,Attached,Rectangular,3,1
+828,Tile,815,RC,Brick,Not Attached,T-Shaped,4,4
+829,Concrete,605,RC,Mud,Not Attached,Square,1,2
+830,Concrete,1949,Brick,Mud,Not Attached,T-Shaped,3,4
+831,Concrete,1977,RC,Mud,Attached,T-Shaped,3,1
+832,Metal,1142,Mud,Mud,Attached,T-Shaped,1,1
+833,Tile,920,Mud,RC,Attached,Rectangular,2,1
+834,Thatch,292,Brick,Mud,Not Attached,Square,3,3
+835,Concrete,629,Mud,Brick,Not Attached,Rectangular,1,2
+836,Thatch,853,Brick,Brick,Attached,Square,3,1
+837,Thatch,1657,Mud,Mud,Attached,Rectangular,4,3
+838,Concrete,1627,Mud,Brick,Not Attached,Square,3,1
+839,Tile,633,Mud,Mud,Attached,Rectangular,1,4
+840,Concrete,1335,Brick,Brick,Attached,T-Shaped,3,2
+841,Thatch,574,Brick,Brick,Attached,Rectangular,4,4
+842,Concrete,1282,RC,Mud,Not Attached,Rectangular,4,3
+843,Thatch,1266,Brick,Mud,Attached,T-Shaped,3,4
+844,Thatch,406,Mud,RC,Attached,T-Shaped,3,4
+845,Concrete,979,Mud,Mud,Attached,Square,4,1
+846,Metal,1519,Brick,Mud,Attached,Square,4,4
+847,Concrete,1341,Brick,RC,Not Attached,Square,2,1
+848,Metal,731,Brick,Mud,Not Attached,Rectangular,2,1
+849,Thatch,1445,RC,Mud,Not Attached,Square,4,2
+850,Thatch,365,Mud,RC,Attached,Rectangular,3,3
+851,Metal,842,RC,Mud,Not Attached,Rectangular,1,3
+852,Thatch,1379,RC,Mud,Attached,Square,3,3
+853,Metal,1407,Mud,RC,Not Attached,Square,3,1
+854,Metal,289,Mud,RC,Attached,Rectangular,2,3
+855,Thatch,1317,Brick,Brick,Not Attached,T-Shaped,2,1
+856,Tile,212,Brick,Mud,Not Attached,T-Shaped,2,2
+857,Metal,1172,RC,Brick,Not Attached,Rectangular,4,3
+858,Concrete,1004,Brick,Brick,Attached,Square,4,1
+859,Concrete,1144,Brick,RC,Attached,Rectangular,3,3
+860,Thatch,941,Mud,Mud,Attached,Rectangular,3,3
+861,Tile,1661,Mud,Mud,Not Attached,Square,1,2
+862,Thatch,1761,Brick,RC,Attached,T-Shaped,3,4
+863,Tile,1810,Mud,Brick,Attached,Rectangular,3,3
+864,Metal,1075,Brick,RC,Attached,T-Shaped,2,2
+865,Metal,1373,Mud,Mud,Attached,T-Shaped,2,3
+866,Metal,859,Mud,RC,Attached,Square,2,3
+867,Metal,1231,Mud,Mud,Attached,Rectangular,2,3
+868,Concrete,1252,Mud,Brick,Not Attached,Rectangular,2,3
+869,Concrete,495,Brick,Mud,Not Attached,T-Shaped,1,4
+870,Thatch,1185,RC,Brick,Attached,T-Shaped,1,4
+871,Tile,1125,Mud,Brick,Not Attached,Square,1,3
+872,Metal,1944,Brick,Mud,Not Attached,T-Shaped,2,3
+873,Metal,839,Brick,Mud,Attached,Square,4,2
+874,Tile,539,Mud,Brick,Attached,Rectangular,2,2
+875,Tile,827,RC,RC,Not Attached,Square,2,1
+876,Thatch,638,Mud,Mud,Attached,T-Shaped,1,4
+877,Tile,1367,Brick,Brick,Not Attached,Rectangular,2,3
+878,Metal,1141,RC,Brick,Not Attached,Square,1,4
+879,Metal,1029,Brick,RC,Not Attached,Rectangular,2,2
+880,Metal,1970,Mud,Mud,Attached,Square,3,4
+881,Metal,718,RC,Brick,Not Attached,T-Shaped,4,4
+882,Metal,1175,Brick,RC,Attached,T-Shaped,4,3
+883,Thatch,1268,Brick,Brick,Attached,Rectangular,1,3
+884,Metal,1154,Brick,Mud,Attached,Rectangular,3,2
+885,Thatch,1462,Mud,RC,Attached,Rectangular,4,3
+886,Metal,1151,RC,Brick,Attached,Square,1,2
+887,Concrete,1143,Mud,RC,Not Attached,T-Shaped,2,2
+888,Concrete,354,Mud,Mud,Attached,Rectangular,2,1
+889,Concrete,1404,Mud,RC,Attached,Rectangular,3,1
+890,Concrete,1438,RC,Mud,Attached,Rectangular,4,1
+891,Thatch,287,Mud,Brick,Attached,Square,2,4
+892,Thatch,1479,Mud,Mud,Attached,Rectangular,1,1
+893,Tile,1734,Mud,Brick,Not Attached,Rectangular,2,3
+894,Metal,1296,Mud,Brick,Attached,Square,2,3
+895,Concrete,1130,Brick,Mud,Attached,Square,4,1
+896,Thatch,378,Mud,Brick,Not Attached,Rectangular,4,4
+897,Metal,411,Brick,RC,Attached,Rectangular,1,2
+898,Metal,1457,Mud,Brick,Not Attached,Square,3,4
+899,Thatch,664,RC,Mud,Not Attached,T-Shaped,3,4
+900,Concrete,1974,Brick,RC,Not Attached,Square,2,2
+901,Tile,1446,Brick,RC,Not Attached,T-Shaped,1,2
+902,Metal,830,Brick,Brick,Attached,Rectangular,3,2
+903,Tile,1024,Brick,Brick,Attached,Rectangular,3,3
+904,Concrete,1487,RC,Mud,Not Attached,T-Shaped,2,2
+905,Concrete,1430,Mud,RC,Not Attached,Square,1,2
+906,Tile,806,Brick,Mud,Attached,Rectangular,3,4
+907,Concrete,1084,RC,Brick,Not Attached,T-Shaped,4,4
+908,Metal,1957,Brick,RC,Not Attached,Square,4,1
+909,Tile,565,Mud,Mud,Not Attached,T-Shaped,2,4
+910,Concrete,475,Brick,Mud,Attached,Square,2,2
+911,Tile,579,RC,Mud,Not Attached,Square,2,3
+912,Metal,1966,Mud,Mud,Attached,Square,2,4
+913,Concrete,1532,RC,Mud,Attached,Square,3,4
+914,Metal,1854,Mud,RC,Attached,T-Shaped,1,2
+915,Concrete,1491,Mud,Mud,Not Attached,T-Shaped,2,4
+916,Thatch,1144,Mud,RC,Not Attached,T-Shaped,2,4
+917,Concrete,1287,Brick,Mud,Attached,T-Shaped,3,2
+918,Tile,1009,RC,Brick,Attached,T-Shaped,2,4
+919,Concrete,1573,RC,Brick,Attached,Square,2,3
+920,Metal,1124,RC,Mud,Not Attached,Rectangular,1,1
+921,Metal,693,Mud,Brick,Not Attached,Rectangular,4,4
+922,Concrete,1746,Brick,RC,Attached,T-Shaped,2,3
+923,Tile,1321,Mud,Mud,Attached,T-Shaped,3,4
+924,Thatch,1294,RC,RC,Not Attached,Rectangular,1,1
+925,Tile,563,Brick,Mud,Attached,Square,3,2
+926,Thatch,769,Brick,Brick,Not Attached,T-Shaped,1,1
+927,Metal,962,Brick,RC,Not Attached,Square,1,4
+928,Tile,475,RC,Brick,Attached,Rectangular,2,1
+929,Thatch,249,Brick,Brick,Attached,Rectangular,2,1
+930,Concrete,1581,Brick,Mud,Not Attached,T-Shaped,2,2
+931,Metal,927,Mud,RC,Not Attached,Square,4,4
+932,Concrete,1105,Mud,Brick,Not Attached,T-Shaped,4,1
+933,Metal,1127,Brick,Mud,Not Attached,Rectangular,3,1
+934,Tile,763,Brick,Mud,Not Attached,Square,2,2
+935,Tile,982,Mud,Mud,Attached,T-Shaped,4,3
+936,Metal,684,Mud,Brick,Not Attached,T-Shaped,2,4
+937,Metal,1307,Mud,Mud,Not Attached,T-Shaped,4,3
+938,Metal,1861,RC,RC,Not Attached,Rectangular,4,3
+939,Tile,783,RC,RC,Attached,T-Shaped,1,2
+940,Thatch,1519,Mud,Brick,Attached,Square,2,2
+941,Concrete,435,Brick,RC,Not Attached,T-Shaped,2,4
+942,Concrete,255,Mud,Mud,Not Attached,Rectangular,4,3
+943,Tile,559,RC,Brick,Attached,T-Shaped,2,1
+944,Concrete,309,Brick,Mud,Attached,Rectangular,4,3
+945,Metal,391,RC,Brick,Attached,Rectangular,2,2
+946,Thatch,1103,Brick,Brick,Attached,Square,1,1
+947,Concrete,1316,RC,Mud,Not Attached,Square,2,1
+948,Thatch,1061,Brick,RC,Attached,T-Shaped,1,2
+949,Metal,767,Brick,RC,Not Attached,Rectangular,3,1
+950,Concrete,1283,Brick,Brick,Not Attached,Rectangular,2,3
+951,Tile,849,Brick,Mud,Attached,Square,2,2
+952,Thatch,238,RC,Mud,Attached,Square,2,4
+953,Metal,1763,RC,Brick,Attached,T-Shaped,1,2
+954,Thatch,1272,Brick,RC,Attached,Rectangular,2,4
+955,Concrete,1643,Brick,Mud,Not Attached,Square,2,4
+956,Concrete,836,RC,RC,Not Attached,T-Shaped,4,2
+957,Tile,1236,Brick,RC,Not Attached,Rectangular,3,2
+958,Metal,235,Brick,Brick,Attached,Rectangular,1,4
+959,Metal,300,Brick,Brick,Not Attached,Square,4,4
+960,Tile,1309,Mud,RC,Attached,T-Shaped,1,1
+961,Tile,1739,Brick,Mud,Not Attached,Square,4,2
+962,Metal,1446,Mud,Mud,Attached,T-Shaped,3,2
+963,Thatch,1561,Brick,Brick,Not Attached,Rectangular,4,1
+964,Thatch,365,RC,RC,Not Attached,T-Shaped,1,2
+965,Tile,582,Mud,Mud,Attached,T-Shaped,2,1
+966,Thatch,1599,Mud,Mud,Not Attached,T-Shaped,2,1
+967,Metal,1694,Brick,Brick,Not Attached,T-Shaped,3,2
+968,Concrete,989,Brick,RC,Attached,T-Shaped,1,3
+969,Concrete,1865,Mud,Mud,Attached,Square,1,4
+970,Thatch,230,RC,Brick,Attached,T-Shaped,1,2
+971,Tile,1598,RC,Mud,Attached,T-Shaped,3,3
+972,Tile,210,Brick,Mud,Attached,Rectangular,2,1
+973,Tile,1525,RC,Mud,Not Attached,T-Shaped,4,3
+974,Tile,295,RC,Brick,Attached,Rectangular,3,2
+975,Tile,1413,Brick,RC,Not Attached,Square,4,2
+976,Thatch,652,RC,Brick,Not Attached,Square,2,3
+977,Concrete,391,Brick,RC,Attached,T-Shaped,3,2
+978,Concrete,685,Mud,Mud,Not Attached,Square,2,4
+979,Thatch,1489,Brick,RC,Not Attached,T-Shaped,4,3
+980,Tile,1647,Mud,Mud,Attached,Square,1,1
+981,Thatch,1351,Mud,Mud,Not Attached,T-Shaped,1,3
+982,Concrete,437,RC,Brick,Attached,T-Shaped,4,3
+983,Metal,1578,RC,Mud,Attached,Rectangular,1,3
+984,Thatch,1335,RC,Brick,Attached,Rectangular,4,3
+985,Tile,1669,Brick,RC,Not Attached,Rectangular,3,1
+986,Concrete,1566,RC,RC,Not Attached,Rectangular,3,1
+987,Concrete,1368,Mud,Mud,Not Attached,T-Shaped,3,1
+988,Concrete,1288,RC,Brick,Not Attached,Square,1,3
+989,Concrete,1470,RC,Mud,Attached,T-Shaped,2,4
+990,Tile,934,Brick,Brick,Not Attached,Rectangular,1,4
+991,Metal,1190,Brick,Brick,Attached,Rectangular,1,1
+992,Concrete,1713,Mud,Brick,Not Attached,Square,2,4
+993,Thatch,1024,Brick,RC,Not Attached,Rectangular,2,4
+994,Metal,1662,RC,Brick,Not Attached,T-Shaped,2,4
+995,Concrete,305,Brick,RC,Not Attached,T-Shaped,2,4
+996,Metal,380,Mud,Brick,Not Attached,T-Shaped,1,4
+997,Thatch,383,RC,RC,Attached,T-Shaped,4,2
+998,Concrete,425,Mud,RC,Not Attached,T-Shaped,3,1
+999,Thatch,976,Brick,RC,Not Attached,Square,4,3
+1000,Tile,989,Brick,Mud,Not Attached,T-Shaped,1,4
+1001,Concrete,1312,Mud,Brick,Not Attached,Rectangular,2,2
+1002,Concrete,887,RC,Mud,Attached,Rectangular,3,3
+1003,Concrete,729,Brick,Brick,Not Attached,Rectangular,3,2
+1004,Concrete,1594,Brick,Brick,Attached,Rectangular,4,4
+1005,Tile,1171,RC,Mud,Not Attached,Square,1,4
+1006,Concrete,1135,Brick,RC,Attached,Rectangular,1,4
+1007,Metal,1622,Mud,Brick,Attached,Square,1,4
+1008,Concrete,305,Brick,RC,Attached,Rectangular,3,3
+1009,Tile,1494,Brick,Mud,Attached,Square,4,3
+1010,Concrete,1030,RC,RC,Attached,Square,3,2
+1011,Metal,1726,Mud,Brick,Not Attached,Square,3,1
+1012,Tile,878,RC,Brick,Attached,Rectangular,2,4
+1013,Tile,1748,Brick,Brick,Not Attached,Square,4,2
+1014,Metal,1048,Brick,Mud,Attached,T-Shaped,2,2
+1015,Metal,1255,RC,Brick,Attached,T-Shaped,1,2
+1016,Metal,592,RC,Mud,Not Attached,Rectangular,3,4
+1017,Metal,239,RC,RC,Attached,T-Shaped,4,4
+1018,Metal,859,Mud,Brick,Attached,T-Shaped,1,2
+1019,Tile,1441,Brick,Brick,Attached,T-Shaped,4,4
+1020,Tile,1954,RC,Brick,Attached,Rectangular,3,2
+1021,Concrete,1180,Brick,RC,Not Attached,Rectangular,4,3
+1022,Concrete,1305,Mud,Brick,Attached,T-Shaped,1,4
+1023,Thatch,1044,Mud,Mud,Attached,Rectangular,2,3
+1024,Concrete,1943,Mud,RC,Not Attached,Square,3,1
+1025,Concrete,400,Mud,RC,Not Attached,T-Shaped,2,4
+1026,Metal,646,Brick,RC,Attached,Rectangular,3,1
+1027,Metal,1651,Mud,RC,Attached,Rectangular,1,2
+1028,Concrete,1261,Mud,RC,Not Attached,T-Shaped,3,4
+1029,Thatch,1434,RC,Mud,Attached,Rectangular,2,4
+1030,Metal,643,Mud,RC,Not Attached,T-Shaped,3,4
+1031,Concrete,1550,RC,Brick,Attached,Rectangular,1,1
+1032,Concrete,960,Mud,RC,Not Attached,Square,3,1
+1033,Tile,426,Mud,RC,Not Attached,T-Shaped,2,2
+1034,Thatch,247,RC,RC,Not Attached,Square,1,3
+1035,Tile,1241,Mud,RC,Attached,T-Shaped,2,3
+1036,Thatch,1111,Brick,RC,Attached,Rectangular,3,1
+1037,Metal,1662,Brick,Mud,Attached,Square,4,4
+1038,Thatch,1931,Mud,Mud,Attached,Rectangular,2,3
+1039,Concrete,386,Brick,RC,Not Attached,T-Shaped,3,3
+1040,Concrete,544,RC,Mud,Not Attached,T-Shaped,4,1
+1041,Thatch,423,Mud,Brick,Not Attached,T-Shaped,4,2
+1042,Thatch,1029,Mud,RC,Attached,T-Shaped,1,1
+1043,Thatch,687,RC,Brick,Attached,T-Shaped,4,1
+1044,Tile,1076,RC,Brick,Attached,Square,2,4
+1045,Thatch,1048,RC,RC,Not Attached,T-Shaped,2,1
+1046,Metal,1452,Mud,Brick,Attached,Rectangular,4,4
+1047,Tile,1613,RC,Brick,Attached,Square,3,2
+1048,Tile,1178,RC,Brick,Not Attached,Rectangular,2,4
+1049,Thatch,1812,Brick,RC,Not Attached,T-Shaped,2,2
+1050,Metal,1216,Brick,RC,Attached,Rectangular,1,2
+1051,Tile,387,Mud,Brick,Not Attached,Square,3,2
+1052,Concrete,469,Brick,RC,Attached,Square,4,1
+1053,Tile,1830,Brick,RC,Not Attached,Square,3,4
+1054,Thatch,509,RC,Brick,Not Attached,Rectangular,1,3
+1055,Metal,1355,RC,RC,Not Attached,Square,1,1
+1056,Thatch,1774,Brick,Mud,Attached,Rectangular,3,2
+1057,Concrete,1295,Brick,RC,Attached,T-Shaped,1,3
+1058,Concrete,1044,Brick,Mud,Attached,T-Shaped,1,1
+1059,Concrete,1895,Mud,Brick,Not Attached,Rectangular,1,3
+1060,Thatch,1410,Mud,RC,Not Attached,Square,3,2
+1061,Tile,685,Mud,Brick,Not Attached,Rectangular,1,3
+1062,Thatch,1414,Brick,Brick,Not Attached,Rectangular,4,3
+1063,Metal,1645,Brick,Brick,Attached,Rectangular,4,2
+1064,Tile,319,Mud,Brick,Attached,T-Shaped,2,3
+1065,Concrete,419,Mud,Brick,Attached,Rectangular,4,1
+1066,Thatch,252,Brick,RC,Not Attached,T-Shaped,2,3
+1067,Concrete,1957,RC,Mud,Not Attached,Rectangular,3,4
+1068,Concrete,1674,Mud,RC,Attached,T-Shaped,1,1
+1069,Metal,1635,Brick,RC,Not Attached,Rectangular,4,3
+1070,Tile,1866,Brick,RC,Attached,Rectangular,2,4
+1071,Metal,1460,RC,RC,Not Attached,Square,3,4
+1072,Metal,957,Brick,Mud,Not Attached,Square,2,4
+1073,Metal,937,Brick,RC,Attached,Rectangular,1,3
+1074,Concrete,919,Mud,Brick,Attached,Rectangular,4,2
+1075,Metal,605,Mud,RC,Not Attached,Rectangular,3,4
+1076,Metal,807,RC,RC,Attached,Rectangular,2,2
+1077,Tile,1220,RC,Mud,Attached,Square,3,1
+1078,Tile,621,Brick,Mud,Not Attached,T-Shaped,2,2
+1079,Metal,911,Mud,Brick,Not Attached,Rectangular,2,2
+1080,Tile,446,RC,RC,Not Attached,Square,1,2
+1081,Tile,271,RC,RC,Attached,Rectangular,1,2
+1082,Metal,384,RC,RC,Not Attached,Rectangular,2,2
+1083,Concrete,205,Brick,Brick,Not Attached,T-Shaped,4,1
+1084,Metal,1429,Mud,Mud,Not Attached,Rectangular,3,1
+1085,Tile,1767,RC,Brick,Not Attached,Rectangular,3,2
+1086,Concrete,1834,Mud,RC,Not Attached,T-Shaped,1,2
+1087,Thatch,1105,RC,Mud,Attached,T-Shaped,4,4
+1088,Concrete,586,RC,Mud,Not Attached,T-Shaped,2,1
+1089,Tile,1991,Mud,Brick,Not Attached,T-Shaped,1,3
+1090,Concrete,898,Mud,Mud,Attached,Square,2,1
+1091,Metal,1299,Mud,Mud,Not Attached,Square,2,3
+1092,Thatch,1400,Brick,RC,Not Attached,Square,1,4
+1093,Thatch,1026,RC,RC,Attached,Rectangular,4,2
+1094,Thatch,548,Brick,Mud,Not Attached,T-Shaped,3,4
+1095,Tile,1478,Mud,Mud,Attached,T-Shaped,1,2
+1096,Tile,1925,RC,Brick,Not Attached,Square,4,1
+1097,Thatch,507,Brick,Brick,Attached,Rectangular,2,2
+1098,Concrete,1568,RC,Mud,Attached,Rectangular,1,3
+1099,Thatch,1350,Brick,RC,Not Attached,Rectangular,3,3
+1100,Concrete,486,Mud,Mud,Attached,Square,3,4
+1101,Concrete,965,Brick,Mud,Attached,Rectangular,2,1
+1102,Tile,924,RC,RC,Not Attached,Rectangular,1,3
+1103,Concrete,961,RC,RC,Not Attached,Rectangular,3,4
+1104,Thatch,1819,RC,Brick,Attached,T-Shaped,1,1
+1105,Tile,1710,RC,Brick,Not Attached,Square,3,1
+1106,Metal,582,Mud,Brick,Attached,T-Shaped,2,4
+1107,Metal,1629,Brick,Brick,Attached,T-Shaped,2,3
+1108,Tile,587,Mud,RC,Not Attached,Square,1,3
+1109,Thatch,724,Mud,Mud,Not Attached,T-Shaped,4,4
+1110,Metal,1780,Mud,Brick,Attached,Rectangular,4,3
+1111,Metal,838,RC,Brick,Not Attached,Rectangular,2,4
+1112,Concrete,1137,RC,RC,Not Attached,Rectangular,3,3
+1113,Concrete,1849,RC,RC,Attached,Rectangular,4,3
+1114,Thatch,475,Brick,Mud,Attached,Square,2,4
+1115,Tile,699,RC,Mud,Attached,T-Shaped,3,4
+1116,Thatch,916,Brick,RC,Attached,T-Shaped,3,3
+1117,Tile,536,RC,Brick,Attached,Rectangular,4,4
+1118,Metal,1131,RC,Brick,Attached,Rectangular,2,3
+1119,Concrete,680,Mud,Brick,Not Attached,T-Shaped,3,2
+1120,Thatch,1110,Mud,Mud,Attached,Square,3,1
+1121,Thatch,1496,Mud,Brick,Not Attached,T-Shaped,1,1
+1122,Tile,1281,Brick,Brick,Not Attached,Rectangular,1,3
+1123,Tile,1551,Brick,RC,Attached,Rectangular,4,1
+1124,Thatch,1954,RC,Brick,Not Attached,Square,1,3
+1125,Tile,308,Brick,RC,Attached,T-Shaped,2,4
+1126,Thatch,1502,RC,Brick,Not Attached,Square,4,2
+1127,Thatch,1909,Brick,Mud,Attached,Square,4,1
+1128,Thatch,527,Brick,Brick,Attached,Rectangular,1,1
+1129,Metal,1999,Brick,Brick,Attached,T-Shaped,3,4
+1130,Tile,514,Mud,RC,Attached,Rectangular,2,2
+1131,Concrete,1697,Brick,RC,Not Attached,T-Shaped,2,2
+1132,Concrete,1334,Mud,RC,Not Attached,Rectangular,2,2
+1133,Tile,898,Mud,Brick,Not Attached,Rectangular,4,4
+1134,Thatch,980,Brick,Brick,Not Attached,T-Shaped,2,1
+1135,Concrete,1452,RC,Mud,Not Attached,T-Shaped,3,1
+1136,Concrete,1720,RC,Brick,Attached,Rectangular,3,2
+1137,Tile,355,RC,Mud,Attached,T-Shaped,1,4
+1138,Concrete,1696,Brick,RC,Attached,Rectangular,2,4
+1139,Thatch,1924,RC,RC,Attached,T-Shaped,4,4
+1140,Tile,1495,Mud,RC,Attached,Rectangular,1,2
+1141,Thatch,1086,RC,Mud,Not Attached,Rectangular,3,4
+1142,Concrete,1225,Brick,Brick,Attached,Rectangular,2,2
+1143,Concrete,957,RC,RC,Attached,Square,3,2
+1144,Thatch,921,Mud,Brick,Not Attached,T-Shaped,1,2
+1145,Metal,1734,Brick,Brick,Not Attached,Rectangular,3,3
+1146,Concrete,1112,RC,RC,Attached,Square,2,2
+1147,Metal,1509,Brick,Mud,Attached,Rectangular,2,4
+1148,Concrete,1070,Brick,Brick,Not Attached,Square,1,3
+1149,Metal,212,Brick,RC,Attached,Rectangular,2,1
+1150,Metal,807,RC,Brick,Attached,Rectangular,3,1
+1151,Metal,697,Brick,Brick,Attached,Square,3,4
+1152,Thatch,1956,RC,Brick,Not Attached,Square,4,4
+1153,Metal,437,Mud,Brick,Attached,T-Shaped,4,4
+1154,Metal,1317,RC,Brick,Attached,T-Shaped,4,4
+1155,Metal,1561,Mud,Mud,Not Attached,Square,3,3
+1156,Concrete,980,RC,Mud,Not Attached,T-Shaped,3,4
+1157,Metal,1394,Brick,RC,Not Attached,Square,1,2
+1158,Concrete,805,RC,Mud,Attached,T-Shaped,4,1
+1159,Metal,860,Brick,Mud,Not Attached,Rectangular,3,4
+1160,Metal,1847,Mud,Mud,Attached,T-Shaped,1,2
+1161,Thatch,1790,RC,Brick,Not Attached,Rectangular,3,4
+1162,Concrete,1048,Brick,Brick,Attached,Rectangular,1,2
+1163,Metal,1135,Mud,RC,Not Attached,T-Shaped,4,3
+1164,Concrete,1690,Mud,RC,Attached,Square,4,1
+1165,Concrete,827,RC,RC,Attached,Rectangular,4,1
+1166,Tile,342,Mud,Brick,Not Attached,Rectangular,3,3
+1167,Thatch,1424,Brick,Mud,Not Attached,T-Shaped,3,2
+1168,Thatch,1403,Mud,Mud,Attached,Square,1,4
+1169,Thatch,913,Mud,Brick,Not Attached,Square,2,2
+1170,Tile,1587,Brick,RC,Attached,T-Shaped,2,1
+1171,Tile,678,Mud,RC,Not Attached,Square,4,3
+1172,Thatch,764,Mud,RC,Not Attached,T-Shaped,2,3
+1173,Tile,670,Mud,Brick,Attached,T-Shaped,4,2
+1174,Tile,583,Mud,RC,Not Attached,T-Shaped,1,2
+1175,Tile,1915,Brick,RC,Not Attached,Rectangular,2,3
+1176,Thatch,1125,Mud,Brick,Attached,Rectangular,2,1
+1177,Thatch,616,Brick,Mud,Attached,Rectangular,4,4
+1178,Thatch,507,Mud,Brick,Not Attached,T-Shaped,1,4
+1179,Tile,848,Mud,Brick,Attached,Rectangular,2,2
+1180,Thatch,1917,Mud,Brick,Not Attached,Rectangular,2,3
+1181,Tile,1590,Mud,Brick,Not Attached,Rectangular,2,3
+1182,Metal,1224,Brick,Mud,Attached,T-Shaped,1,3
+1183,Tile,1267,Brick,RC,Attached,T-Shaped,1,1
+1184,Concrete,938,Brick,Brick,Attached,T-Shaped,2,2
+1185,Thatch,1321,RC,Mud,Attached,Rectangular,4,2
+1186,Thatch,1943,Mud,RC,Attached,Square,4,2
+1187,Concrete,1488,Mud,RC,Attached,Rectangular,2,1
+1188,Tile,339,Brick,RC,Not Attached,Rectangular,1,2
+1189,Metal,1704,RC,Brick,Not Attached,T-Shaped,2,4
+1190,Concrete,1460,Mud,Brick,Attached,T-Shaped,1,2
+1191,Concrete,1173,Brick,RC,Not Attached,Rectangular,2,2
+1192,Tile,1216,Mud,RC,Not Attached,Rectangular,1,2
+1193,Thatch,1152,Mud,RC,Not Attached,Square,3,1
+1194,Tile,1103,Brick,RC,Not Attached,Square,4,4
+1195,Concrete,271,Brick,RC,Attached,T-Shaped,3,4
+1196,Concrete,1890,Mud,RC,Not Attached,Square,4,3
+1197,Thatch,1413,Mud,Mud,Not Attached,Square,1,3
+1198,Thatch,1491,Brick,RC,Attached,T-Shaped,3,4
+1199,Thatch,1544,Mud,Brick,Attached,Square,4,2
+1200,Tile,306,Mud,Brick,Attached,Rectangular,2,2
+1201,Thatch,1455,Brick,Brick,Attached,Square,1,2
+1202,Concrete,1265,Mud,RC,Not Attached,T-Shaped,1,1
+1203,Concrete,1925,Mud,Brick,Attached,Rectangular,2,2
+1204,Metal,1082,RC,Mud,Not Attached,Square,2,1
+1205,Tile,338,Brick,RC,Not Attached,Rectangular,4,4
+1206,Metal,814,RC,Brick,Attached,Rectangular,1,2
+1207,Concrete,1906,RC,Mud,Attached,Square,4,2
+1208,Metal,1062,RC,Mud,Attached,Square,2,3
+1209,Concrete,472,Mud,Brick,Attached,T-Shaped,1,4
+1210,Metal,1704,Mud,Mud,Attached,T-Shaped,2,2
+1211,Thatch,615,RC,Brick,Attached,Rectangular,4,1
+1212,Metal,705,RC,Mud,Not Attached,T-Shaped,4,4
+1213,Thatch,932,RC,RC,Not Attached,Rectangular,4,3
+1214,Thatch,1948,Mud,RC,Not Attached,Rectangular,1,4
+1215,Tile,623,RC,RC,Not Attached,T-Shaped,2,1
+1216,Thatch,1630,RC,RC,Attached,T-Shaped,2,3
+1217,Thatch,1791,Brick,RC,Attached,T-Shaped,4,1
+1218,Metal,589,Brick,Brick,Not Attached,Square,4,4
+1219,Concrete,541,Mud,RC,Not Attached,Rectangular,4,3
+1220,Tile,1145,Brick,RC,Not Attached,Rectangular,4,1
+1221,Thatch,813,Brick,RC,Attached,Rectangular,3,4
+1222,Tile,692,Brick,RC,Attached,T-Shaped,3,1
+1223,Metal,391,Mud,Mud,Attached,T-Shaped,3,2
+1224,Thatch,698,Brick,RC,Not Attached,T-Shaped,4,4
+1225,Metal,1021,Mud,RC,Not Attached,T-Shaped,4,3
+1226,Tile,1935,RC,Brick,Attached,T-Shaped,2,3
+1227,Metal,1456,Brick,Mud,Attached,Square,1,2
+1228,Tile,426,Mud,Brick,Not Attached,T-Shaped,2,1
+1229,Metal,1594,Brick,RC,Not Attached,Rectangular,3,1
+1230,Tile,338,RC,Brick,Attached,T-Shaped,2,3
+1231,Concrete,1055,Mud,Brick,Not Attached,Rectangular,4,1
+1232,Metal,1016,Mud,RC,Attached,T-Shaped,3,4
+1233,Metal,1372,Mud,Mud,Attached,T-Shaped,3,4
+1234,Concrete,1338,RC,Mud,Not Attached,Rectangular,1,3
+1235,Concrete,1673,RC,Brick,Not Attached,Rectangular,1,4
+1236,Metal,1286,RC,RC,Not Attached,Rectangular,3,3
+1237,Concrete,303,Mud,Brick,Attached,Rectangular,3,1
+1238,Thatch,1070,RC,Brick,Not Attached,Square,2,1
+1239,Tile,867,Brick,Brick,Not Attached,Rectangular,3,1
+1240,Tile,472,RC,RC,Attached,T-Shaped,4,2
+1241,Tile,1229,Mud,RC,Attached,T-Shaped,2,3
+1242,Thatch,1370,Brick,Mud,Not Attached,Square,4,4
+1243,Concrete,383,RC,RC,Attached,Rectangular,4,1
+1244,Concrete,1251,Brick,Brick,Attached,T-Shaped,4,2
+1245,Metal,1773,Brick,Brick,Attached,Square,3,4
+1246,Concrete,1342,Mud,Mud,Not Attached,T-Shaped,1,4
+1247,Metal,492,Brick,RC,Not Attached,Square,1,4
+1248,Thatch,1594,Brick,Brick,Attached,Square,4,1
+1249,Tile,1467,Mud,Mud,Attached,Rectangular,3,4
+1250,Tile,1803,Mud,Mud,Attached,Square,2,3
+1251,Tile,1949,Mud,Brick,Not Attached,T-Shaped,4,2
+1252,Concrete,1441,Brick,Brick,Attached,T-Shaped,2,4
+1253,Metal,376,Brick,RC,Attached,Rectangular,2,4
+1254,Metal,1522,Brick,Mud,Not Attached,Rectangular,3,3
+1255,Thatch,1899,Mud,Brick,Attached,Square,3,4
+1256,Concrete,257,RC,Mud,Not Attached,Rectangular,1,1
+1257,Thatch,1492,Brick,RC,Not Attached,T-Shaped,1,1
+1258,Metal,507,RC,Brick,Not Attached,T-Shaped,3,1
+1259,Metal,1793,Mud,RC,Attached,Rectangular,4,4
+1260,Tile,1511,Brick,Mud,Attached,Rectangular,1,2
+1261,Concrete,1176,RC,RC,Not Attached,Rectangular,2,2
+1262,Metal,1328,Brick,RC,Attached,Square,4,4
+1263,Tile,1451,Brick,Mud,Not Attached,Square,2,2
+1264,Concrete,1470,Brick,RC,Attached,T-Shaped,3,2
+1265,Thatch,899,RC,Mud,Not Attached,Square,2,4
+1266,Concrete,1717,Mud,Brick,Not Attached,Square,4,1
+1267,Concrete,282,Brick,Mud,Attached,Square,3,4
+1268,Metal,1409,Mud,Mud,Attached,Square,4,1
+1269,Metal,451,Mud,Brick,Attached,T-Shaped,2,1
+1270,Concrete,1578,RC,Mud,Attached,Rectangular,4,2
+1271,Metal,1973,RC,Brick,Not Attached,T-Shaped,3,2
+1272,Metal,1919,Mud,Brick,Not Attached,Square,2,1
+1273,Metal,995,Brick,Mud,Attached,Rectangular,2,1
+1274,Tile,1096,RC,RC,Attached,Rectangular,1,2
+1275,Tile,409,Brick,RC,Not Attached,Rectangular,1,3
+1276,Concrete,1015,Brick,Brick,Attached,T-Shaped,4,1
+1277,Metal,808,Brick,RC,Attached,Rectangular,1,1
+1278,Tile,646,Mud,RC,Attached,T-Shaped,1,1
+1279,Concrete,659,Brick,Mud,Attached,T-Shaped,1,2
+1280,Metal,1167,Mud,Brick,Not Attached,Square,1,4
+1281,Thatch,671,Mud,Brick,Not Attached,Square,3,1
+1282,Metal,1943,Brick,Mud,Attached,Rectangular,3,1
+1283,Metal,569,Brick,RC,Not Attached,Rectangular,1,1
+1284,Tile,1099,Brick,Brick,Attached,Square,4,4
+1285,Concrete,1715,Brick,RC,Attached,T-Shaped,3,4
+1286,Concrete,1122,Mud,Brick,Attached,T-Shaped,1,1
+1287,Tile,336,Brick,Brick,Not Attached,Square,3,1
+1288,Metal,566,Brick,Brick,Not Attached,T-Shaped,2,3
+1289,Thatch,1111,Mud,Brick,Not Attached,Square,3,4
+1290,Metal,383,RC,RC,Not Attached,Square,3,3
+1291,Metal,1811,RC,RC,Not Attached,Rectangular,4,1
+1292,Thatch,1510,Mud,RC,Attached,Rectangular,3,1
+1293,Tile,671,RC,RC,Attached,Square,4,1
+1294,Concrete,1598,Mud,Mud,Not Attached,Rectangular,2,1
+1295,Tile,853,Brick,Brick,Not Attached,Square,1,2
+1296,Tile,948,Brick,Brick,Not Attached,T-Shaped,4,2
+1297,Metal,736,RC,Brick,Attached,T-Shaped,3,2
+1298,Concrete,1734,Brick,Mud,Not Attached,T-Shaped,3,3
+1299,Concrete,1001,RC,RC,Attached,T-Shaped,4,4
+1300,Tile,1802,RC,Brick,Attached,Square,2,1
+1301,Thatch,1473,Brick,RC,Not Attached,T-Shaped,1,4
+1302,Tile,1119,Brick,RC,Attached,T-Shaped,3,2
+1303,Thatch,709,RC,Mud,Attached,T-Shaped,2,1
+1304,Concrete,829,Brick,Mud,Not Attached,T-Shaped,1,1
+1305,Tile,1201,Mud,RC,Attached,Square,1,3
+1306,Metal,1296,Brick,Brick,Not Attached,T-Shaped,3,4
+1307,Tile,1505,Brick,Brick,Attached,Rectangular,4,3
+1308,Concrete,1115,Mud,Mud,Not Attached,Rectangular,3,2
+1309,Metal,1583,Brick,Mud,Not Attached,Rectangular,3,4
+1310,Metal,1233,Brick,Mud,Attached,Rectangular,3,2
+1311,Thatch,1434,RC,Mud,Not Attached,Rectangular,2,3
+1312,Metal,351,Brick,Mud,Attached,Rectangular,4,3
+1313,Metal,1228,Brick,Mud,Attached,Square,2,1
+1314,Tile,1418,Mud,Mud,Not Attached,Rectangular,3,4
+1315,Concrete,1506,RC,Brick,Attached,T-Shaped,4,4
+1316,Thatch,663,RC,Mud,Not Attached,Rectangular,1,1
+1317,Tile,1336,RC,Mud,Attached,Square,4,4
+1318,Metal,470,Brick,Brick,Attached,Rectangular,3,2
+1319,Metal,1386,RC,Brick,Not Attached,T-Shaped,4,2
+1320,Thatch,659,Mud,RC,Attached,T-Shaped,1,3
+1321,Concrete,304,RC,Mud,Attached,Square,1,2
+1322,Thatch,1916,Mud,Mud,Attached,Square,4,4
+1323,Tile,1779,RC,Mud,Attached,Square,1,1
+1324,Thatch,1505,RC,Mud,Attached,Square,2,3
+1325,Metal,1910,Mud,RC,Attached,Rectangular,4,1
+1326,Tile,361,RC,Brick,Attached,Rectangular,1,3
+1327,Metal,550,RC,Brick,Attached,T-Shaped,1,3
+1328,Concrete,633,RC,Mud,Not Attached,Square,4,1
+1329,Metal,1051,Brick,Mud,Attached,Square,2,2
+1330,Metal,339,Mud,Mud,Attached,Rectangular,4,2
+1331,Thatch,1694,RC,RC,Not Attached,Square,1,2
+1332,Metal,1355,Mud,RC,Not Attached,T-Shaped,4,2
+1333,Tile,286,Mud,Brick,Not Attached,T-Shaped,1,1
+1334,Tile,1911,Mud,Mud,Attached,Square,3,4
+1335,Concrete,382,RC,Mud,Not Attached,T-Shaped,4,3
+1336,Tile,567,RC,Mud,Not Attached,T-Shaped,4,1
+1337,Thatch,328,Mud,Mud,Attached,Rectangular,1,2
+1338,Concrete,1469,Brick,RC,Attached,T-Shaped,1,2
+1339,Tile,1824,Mud,Brick,Not Attached,Square,1,1
+1340,Thatch,1801,Brick,Brick,Not Attached,Square,1,3
+1341,Tile,869,Mud,RC,Attached,T-Shaped,4,1
+1342,Tile,1601,Mud,Mud,Attached,Square,1,1
+1343,Metal,348,Mud,Brick,Attached,Rectangular,4,4
+1344,Tile,1184,RC,Brick,Attached,T-Shaped,2,1
+1345,Tile,1051,Brick,RC,Attached,T-Shaped,4,4
+1346,Thatch,1656,Brick,Mud,Not Attached,T-Shaped,1,3
+1347,Thatch,827,Mud,Brick,Attached,Square,1,1
+1348,Metal,1949,RC,Mud,Attached,Square,2,1
+1349,Tile,1692,RC,Brick,Attached,T-Shaped,4,2
+1350,Metal,645,Brick,RC,Attached,Square,2,1
+1351,Tile,1704,RC,Mud,Attached,Square,4,2
+1352,Concrete,1083,Brick,RC,Not Attached,T-Shaped,1,2
+1353,Concrete,493,Brick,Brick,Attached,T-Shaped,4,2
+1354,Metal,1988,Brick,RC,Not Attached,Square,1,3
+1355,Metal,1366,RC,RC,Attached,T-Shaped,1,4
+1356,Metal,449,Brick,RC,Not Attached,T-Shaped,3,2
+1357,Thatch,1077,Brick,Brick,Not Attached,T-Shaped,3,1
+1358,Thatch,1147,Mud,Mud,Attached,T-Shaped,4,1
+1359,Thatch,1174,Brick,RC,Attached,Square,1,2
+1360,Metal,1525,Brick,Mud,Attached,T-Shaped,2,2
+1361,Tile,1248,Mud,Brick,Attached,Rectangular,1,1
+1362,Concrete,988,Mud,Mud,Attached,T-Shaped,2,2
+1363,Metal,1183,RC,RC,Not Attached,Rectangular,4,4
+1364,Thatch,1088,Brick,RC,Attached,T-Shaped,4,4
+1365,Thatch,1089,RC,RC,Attached,Rectangular,2,3
+1366,Metal,269,RC,RC,Not Attached,Rectangular,2,2
+1367,Metal,824,Mud,RC,Attached,T-Shaped,1,3
+1368,Thatch,1074,RC,RC,Not Attached,T-Shaped,4,3
+1369,Tile,1335,Brick,Brick,Attached,T-Shaped,1,3
+1370,Thatch,1587,Mud,Brick,Not Attached,Rectangular,2,2
+1371,Thatch,1526,Brick,Brick,Attached,Square,3,3
+1372,Metal,670,Brick,Mud,Not Attached,Square,3,4
+1373,Tile,290,Mud,Mud,Not Attached,T-Shaped,3,3
+1374,Thatch,729,Brick,Brick,Attached,Square,2,4
+1375,Thatch,860,Mud,Mud,Attached,Square,1,4
+1376,Concrete,938,Brick,Mud,Attached,T-Shaped,4,2
+1377,Metal,925,Mud,RC,Not Attached,Rectangular,2,3
+1378,Concrete,1071,RC,RC,Not Attached,T-Shaped,3,2
+1379,Concrete,1886,Brick,Mud,Not Attached,Square,1,4
+1380,Thatch,391,Mud,Mud,Attached,Rectangular,4,1
+1381,Metal,1775,Brick,Brick,Attached,Square,4,3
+1382,Tile,1465,Brick,Mud,Not Attached,Rectangular,2,2
+1383,Thatch,337,Brick,RC,Attached,Square,2,1
+1384,Tile,544,Mud,Mud,Not Attached,T-Shaped,4,3
+1385,Tile,1403,RC,Brick,Attached,Square,4,3
+1386,Metal,1208,RC,RC,Attached,Square,3,2
+1387,Concrete,1935,RC,RC,Not Attached,Rectangular,4,1
+1388,Metal,702,Mud,RC,Attached,Square,2,2
+1389,Tile,402,RC,RC,Attached,T-Shaped,1,3
+1390,Thatch,772,Mud,Mud,Attached,T-Shaped,3,3
+1391,Tile,391,Brick,Brick,Attached,T-Shaped,3,4
+1392,Thatch,204,Brick,Mud,Attached,Rectangular,4,3
+1393,Thatch,1460,RC,Mud,Not Attached,Rectangular,1,3
+1394,Metal,1916,Mud,RC,Attached,Square,3,1
+1395,Tile,510,Brick,Brick,Not Attached,Square,2,1
+1396,Concrete,748,Mud,RC,Attached,Square,4,4
+1397,Tile,255,Mud,Mud,Attached,Rectangular,2,4
+1398,Tile,642,Brick,Mud,Not Attached,Rectangular,4,4
+1399,Concrete,1460,Mud,RC,Not Attached,Square,3,2
+1400,Metal,1069,Brick,Mud,Attached,Rectangular,4,2
+1401,Tile,1420,Brick,Mud,Attached,Rectangular,1,4
+1402,Tile,784,Brick,RC,Not Attached,T-Shaped,2,2
+1403,Thatch,1794,Mud,Mud,Not Attached,T-Shaped,1,3
+1404,Tile,951,Brick,Brick,Not Attached,Square,2,4
+1405,Concrete,1737,Mud,RC,Not Attached,Square,2,4
+1406,Thatch,1672,Brick,Brick,Attached,T-Shaped,4,2
+1407,Metal,559,Brick,Mud,Attached,Rectangular,3,1
+1408,Thatch,1923,RC,Mud,Attached,Square,3,4
+1409,Concrete,1018,RC,RC,Attached,Square,1,2
+1410,Concrete,229,RC,Mud,Attached,Square,4,2
+1411,Thatch,307,Mud,RC,Not Attached,Rectangular,3,1
+1412,Metal,1043,Mud,RC,Not Attached,T-Shaped,2,4
+1413,Thatch,1825,Brick,RC,Not Attached,Square,2,1
+1414,Metal,916,Brick,RC,Attached,T-Shaped,4,3
+1415,Thatch,1090,Brick,RC,Not Attached,T-Shaped,1,1
+1416,Concrete,1159,Brick,Brick,Attached,Rectangular,4,1
+1417,Tile,1668,Mud,RC,Attached,Rectangular,1,2
+1418,Tile,1092,Brick,Brick,Attached,Rectangular,4,1
+1419,Metal,1661,Brick,Mud,Not Attached,Rectangular,2,3
+1420,Metal,931,RC,RC,Attached,Rectangular,4,2
+1421,Metal,805,Brick,Mud,Attached,Rectangular,3,3
+1422,Concrete,656,Brick,RC,Not Attached,Square,3,1
+1423,Thatch,814,Brick,Brick,Attached,T-Shaped,4,3
+1424,Concrete,1958,Mud,Brick,Not Attached,Rectangular,1,3
+1425,Tile,897,RC,Brick,Attached,Square,1,1
+1426,Metal,1919,Brick,Mud,Not Attached,T-Shaped,2,1
+1427,Thatch,1718,Brick,RC,Attached,Rectangular,2,2
+1428,Tile,873,RC,Mud,Attached,Rectangular,1,2
+1429,Tile,1470,Brick,Brick,Not Attached,Square,4,4
+1430,Tile,742,Mud,Mud,Attached,T-Shaped,2,2
+1431,Concrete,1787,Brick,Brick,Not Attached,Rectangular,1,1
+1432,Metal,1056,Mud,Brick,Attached,T-Shaped,1,3
+1433,Tile,1811,Mud,Brick,Not Attached,Square,4,3
+1434,Metal,1096,Brick,RC,Attached,Rectangular,3,2
+1435,Concrete,1662,RC,RC,Attached,T-Shaped,1,2
+1436,Tile,477,Mud,Brick,Attached,Square,2,1
+1437,Concrete,751,RC,Mud,Not Attached,Square,4,3
+1438,Concrete,1836,Brick,Mud,Not Attached,Rectangular,4,4
+1439,Metal,310,Mud,RC,Not Attached,T-Shaped,4,4
+1440,Tile,584,Brick,Brick,Not Attached,Rectangular,3,2
+1441,Concrete,960,RC,Mud,Not Attached,Rectangular,3,4
+1442,Tile,1414,Brick,Brick,Attached,T-Shaped,2,1
+1443,Metal,1713,Brick,Mud,Attached,T-Shaped,2,4
+1444,Concrete,893,Mud,RC,Attached,T-Shaped,4,2
+1445,Metal,1649,Brick,Brick,Attached,Square,2,1
+1446,Tile,604,Brick,Brick,Attached,Square,1,3
+1447,Tile,1558,Brick,Mud,Not Attached,T-Shaped,3,1
+1448,Metal,1432,Mud,Mud,Attached,Square,4,2
+1449,Thatch,221,RC,Mud,Not Attached,Rectangular,4,2
+1450,Concrete,877,RC,Brick,Attached,T-Shaped,1,4
+1451,Tile,810,Brick,RC,Not Attached,Rectangular,1,4
+1452,Tile,1431,Mud,RC,Not Attached,T-Shaped,1,3
+1453,Concrete,207,Brick,Mud,Not Attached,Rectangular,1,3
+1454,Metal,901,RC,RC,Attached,T-Shaped,4,2
+1455,Metal,1910,Mud,Mud,Attached,Rectangular,3,2
+1456,Metal,728,RC,RC,Attached,T-Shaped,3,2
+1457,Thatch,801,RC,Brick,Attached,T-Shaped,1,3
+1458,Thatch,1876,Mud,Mud,Not Attached,Square,2,2
+1459,Tile,856,Mud,RC,Not Attached,Rectangular,4,3
+1460,Metal,365,Brick,Brick,Not Attached,Square,3,2
+1461,Concrete,1048,Brick,RC,Not Attached,Rectangular,1,1
+1462,Tile,695,RC,Brick,Attached,Square,2,1
+1463,Concrete,789,Mud,Brick,Not Attached,T-Shaped,2,2
+1464,Tile,628,Mud,RC,Attached,Square,1,1
+1465,Thatch,973,Brick,RC,Not Attached,Square,4,3
+1466,Tile,362,RC,Brick,Not Attached,T-Shaped,3,4
+1467,Thatch,565,RC,Brick,Not Attached,Square,2,1
+1468,Tile,1749,Brick,Brick,Attached,T-Shaped,3,4
+1469,Metal,1462,Mud,Mud,Attached,Rectangular,3,1
+1470,Concrete,271,Brick,Brick,Not Attached,Square,2,3
+1471,Metal,1668,Brick,Mud,Not Attached,T-Shaped,1,1
+1472,Tile,854,Brick,Brick,Not Attached,T-Shaped,2,1
+1473,Tile,1732,Brick,Mud,Attached,Square,2,2
+1474,Tile,468,Mud,Brick,Attached,Rectangular,4,4
+1475,Thatch,1976,Brick,Brick,Attached,Square,3,4
+1476,Concrete,614,Mud,Brick,Not Attached,T-Shaped,1,3
+1477,Concrete,1468,Brick,RC,Attached,Rectangular,3,3
+1478,Tile,1215,RC,RC,Not Attached,Square,2,4
+1479,Tile,874,Mud,Brick,Attached,T-Shaped,1,2
+1480,Thatch,1283,RC,Mud,Not Attached,Square,1,2
+1481,Metal,205,Brick,Mud,Not Attached,Rectangular,1,4
+1482,Metal,1932,Brick,Brick,Attached,Rectangular,1,1
+1483,Concrete,1181,Brick,RC,Not Attached,Rectangular,4,4
+1484,Thatch,769,Mud,Mud,Not Attached,Rectangular,1,1
+1485,Tile,606,RC,RC,Not Attached,Rectangular,2,4
+1486,Concrete,1440,Mud,Mud,Attached,Square,4,1
+1487,Thatch,225,Mud,Brick,Not Attached,Rectangular,2,2
+1488,Metal,1228,Brick,RC,Attached,Rectangular,2,4
+1489,Thatch,1185,RC,Mud,Attached,T-Shaped,3,3
+1490,Metal,1755,Brick,Brick,Not Attached,Rectangular,1,1
+1491,Thatch,589,Mud,Brick,Attached,T-Shaped,1,2
+1492,Concrete,909,Brick,Brick,Not Attached,T-Shaped,2,3
+1493,Metal,770,RC,RC,Attached,T-Shaped,1,2
+1494,Concrete,1671,Brick,RC,Not Attached,Square,4,1
+1495,Concrete,953,RC,Brick,Attached,Square,3,4
+1496,Metal,345,RC,RC,Not Attached,T-Shaped,1,2
+1497,Metal,1611,Brick,Mud,Not Attached,Square,1,4
+1498,Tile,984,Mud,Brick,Not Attached,Rectangular,4,4
+1499,Tile,1472,Brick,Brick,Not Attached,Square,3,2
+1500,Tile,725,Mud,RC,Attached,Rectangular,4,2
+1501,Concrete,1685,Mud,Brick,Attached,Rectangular,2,2
+1502,Concrete,212,Brick,Mud,Not Attached,Square,2,4
+1503,Tile,1102,Mud,RC,Attached,Square,1,3
+1504,Concrete,583,Mud,RC,Not Attached,T-Shaped,3,1
+1505,Concrete,755,Brick,Brick,Not Attached,Square,2,3
+1506,Metal,1086,Brick,Brick,Attached,Square,4,4
+1507,Metal,1622,Brick,Brick,Attached,Square,2,2
+1508,Concrete,218,Mud,RC,Not Attached,Rectangular,2,2
+1509,Tile,774,RC,Brick,Attached,Rectangular,4,1
+1510,Thatch,1714,Mud,Mud,Not Attached,Rectangular,1,1
+1511,Tile,950,RC,Brick,Attached,T-Shaped,3,3
+1512,Thatch,1203,Brick,Brick,Attached,T-Shaped,1,3
+1513,Tile,618,RC,RC,Attached,T-Shaped,4,1
+1514,Metal,1560,Brick,Brick,Attached,Rectangular,2,4
+1515,Concrete,618,Brick,RC,Attached,Square,3,3
+1516,Concrete,1835,RC,Brick,Not Attached,T-Shaped,1,2
+1517,Metal,1898,Brick,Mud,Attached,T-Shaped,4,2
+1518,Thatch,321,RC,Mud,Attached,Rectangular,2,4
+1519,Thatch,631,Brick,RC,Not Attached,T-Shaped,2,1
+1520,Thatch,243,Mud,RC,Not Attached,Square,1,3
+1521,Metal,1540,Mud,Brick,Not Attached,Rectangular,4,2
+1522,Thatch,580,Brick,Brick,Attached,Rectangular,2,1
+1523,Metal,344,Brick,Mud,Attached,Square,2,3
+1524,Tile,1550,RC,Brick,Not Attached,Square,3,4
+1525,Tile,562,Mud,Mud,Not Attached,Square,2,2
+1526,Metal,1273,RC,RC,Not Attached,T-Shaped,1,4
+1527,Concrete,1288,Brick,Brick,Not Attached,Square,4,4
+1528,Tile,554,Brick,RC,Attached,Rectangular,4,4
+1529,Thatch,999,RC,Brick,Attached,Square,3,3
+1530,Metal,1387,Brick,Mud,Attached,Rectangular,4,4
+1531,Thatch,1364,Mud,RC,Attached,Rectangular,1,3
+1532,Thatch,1025,RC,RC,Attached,T-Shaped,2,3
+1533,Concrete,1351,Mud,Brick,Not Attached,Square,3,4
+1534,Thatch,597,Mud,RC,Attached,T-Shaped,4,4
+1535,Concrete,1079,Mud,Mud,Not Attached,Square,3,1
+1536,Tile,662,RC,RC,Not Attached,Square,3,2
+1537,Metal,1974,Brick,RC,Not Attached,Square,4,1
+1538,Thatch,1007,Mud,Brick,Attached,Square,3,2
+1539,Metal,386,Mud,RC,Not Attached,Square,4,2
+1540,Thatch,1943,Mud,Brick,Attached,Rectangular,1,1
+1541,Metal,931,Brick,Brick,Not Attached,Rectangular,4,1
+1542,Thatch,1413,Brick,RC,Attached,Square,2,2
+1543,Thatch,1611,RC,Mud,Not Attached,Rectangular,4,2
+1544,Thatch,628,Brick,Brick,Attached,T-Shaped,2,2
+1545,Thatch,1057,RC,RC,Not Attached,T-Shaped,3,3
+1546,Thatch,1507,RC,Brick,Not Attached,T-Shaped,4,2
+1547,Thatch,436,RC,Mud,Not Attached,Square,2,4
+1548,Thatch,1417,RC,Mud,Not Attached,Square,4,4
+1549,Thatch,1510,RC,Brick,Attached,Rectangular,4,4
+1550,Thatch,970,Mud,Mud,Attached,Rectangular,4,1
+1551,Metal,957,Brick,RC,Attached,Rectangular,1,1
+1552,Concrete,335,Mud,RC,Not Attached,T-Shaped,2,1
+1553,Thatch,991,RC,Brick,Not Attached,T-Shaped,1,2
+1554,Concrete,370,Brick,Mud,Not Attached,T-Shaped,1,4
+1555,Thatch,358,Mud,RC,Not Attached,T-Shaped,2,2
+1556,Thatch,400,Mud,RC,Not Attached,Rectangular,4,3
+1557,Metal,1710,RC,RC,Not Attached,Square,1,3
+1558,Tile,1780,Mud,Brick,Attached,Square,1,1
+1559,Tile,1161,Mud,Brick,Attached,T-Shaped,1,3
+1560,Metal,1999,Mud,RC,Attached,Square,4,4
+1561,Concrete,782,Mud,RC,Attached,Square,1,3
+1562,Tile,1727,Mud,Mud,Attached,Square,3,1
+1563,Metal,1075,RC,Mud,Attached,T-Shaped,2,2
+1564,Metal,570,RC,Mud,Attached,Rectangular,3,3
+1565,Tile,302,Mud,Brick,Attached,Rectangular,4,4
+1566,Concrete,1201,RC,RC,Not Attached,Square,1,4
+1567,Metal,1348,RC,Brick,Not Attached,Rectangular,2,4
+1568,Thatch,1536,Brick,RC,Not Attached,Rectangular,1,2
+1569,Concrete,1175,Mud,Mud,Not Attached,T-Shaped,4,4
+1570,Concrete,997,RC,Mud,Not Attached,T-Shaped,2,1
+1571,Tile,1681,RC,Mud,Not Attached,Square,3,1
+1572,Tile,1453,Mud,Mud,Not Attached,Square,2,4
+1573,Thatch,857,Brick,RC,Attached,Square,1,3
+1574,Metal,1081,Mud,Mud,Attached,T-Shaped,2,4
+1575,Tile,1420,Brick,RC,Not Attached,Rectangular,4,1
+1576,Tile,932,Mud,RC,Attached,T-Shaped,4,1
+1577,Concrete,622,Mud,Brick,Attached,T-Shaped,2,1
+1578,Tile,771,Mud,Mud,Attached,Rectangular,4,3
+1579,Tile,1833,Mud,Mud,Attached,Rectangular,4,3
+1580,Tile,370,Brick,Brick,Attached,Square,4,3
+1581,Tile,1605,Brick,RC,Not Attached,Rectangular,3,1
+1582,Concrete,372,RC,Mud,Attached,Rectangular,1,2
+1583,Thatch,862,Mud,RC,Not Attached,Rectangular,4,4
+1584,Thatch,652,Brick,Brick,Not Attached,Rectangular,2,4
+1585,Metal,549,Brick,RC,Not Attached,Square,4,1
+1586,Tile,1857,Brick,Mud,Attached,Square,3,3
+1587,Concrete,693,Mud,RC,Not Attached,Rectangular,2,2
+1588,Metal,819,RC,RC,Not Attached,Rectangular,1,2
+1589,Metal,1227,Brick,Mud,Not Attached,Square,2,3
+1590,Thatch,1316,Mud,Mud,Not Attached,Square,2,4
+1591,Concrete,1118,Brick,RC,Attached,Rectangular,2,4
+1592,Concrete,205,Brick,RC,Not Attached,T-Shaped,2,2
+1593,Concrete,487,RC,Brick,Not Attached,Square,4,2
+1594,Thatch,1841,Brick,Mud,Not Attached,Square,1,3
+1595,Thatch,1369,Brick,RC,Not Attached,Square,4,4
+1596,Thatch,1647,Mud,Mud,Attached,Rectangular,3,2
+1597,Thatch,807,Mud,Brick,Not Attached,Rectangular,3,4
+1598,Thatch,656,RC,RC,Not Attached,Square,2,2
+1599,Tile,1964,Mud,RC,Not Attached,Rectangular,4,3
+1600,Tile,1425,Mud,RC,Not Attached,Rectangular,4,4
+1601,Concrete,1435,RC,Mud,Not Attached,Square,1,2
+1602,Metal,1229,Brick,Brick,Not Attached,Rectangular,1,2
+1603,Concrete,823,RC,Mud,Attached,T-Shaped,1,2
+1604,Metal,575,Mud,RC,Not Attached,Rectangular,4,2
+1605,Thatch,646,RC,Brick,Attached,Rectangular,1,3
+1606,Metal,1034,Brick,RC,Attached,Square,1,4
+1607,Concrete,1329,RC,RC,Not Attached,Square,1,4
+1608,Concrete,1874,Mud,Mud,Attached,T-Shaped,2,1
+1609,Metal,1010,Mud,RC,Not Attached,Rectangular,3,4
+1610,Tile,1624,RC,Brick,Attached,T-Shaped,3,1
+1611,Thatch,1319,Brick,RC,Not Attached,T-Shaped,4,2
+1612,Thatch,1611,RC,RC,Attached,Square,4,3
+1613,Concrete,1158,Brick,Mud,Attached,Rectangular,2,3
+1614,Tile,1675,Brick,Brick,Not Attached,Square,3,2
+1615,Metal,1048,RC,Mud,Attached,T-Shaped,1,1
+1616,Thatch,1008,Brick,RC,Attached,T-Shaped,1,2
+1617,Tile,1178,Mud,Mud,Attached,Square,4,3
+1618,Thatch,615,RC,Mud,Attached,Square,3,3
+1619,Tile,925,Brick,Mud,Attached,Square,4,4
+1620,Tile,1727,Mud,Mud,Not Attached,Square,4,1
+1621,Concrete,653,RC,RC,Attached,Square,1,4
+1622,Thatch,1514,Mud,RC,Attached,T-Shaped,1,3
+1623,Metal,1757,Mud,Brick,Not Attached,Square,3,3
+1624,Concrete,1416,Mud,Mud,Not Attached,Rectangular,4,4
+1625,Concrete,349,Brick,Mud,Not Attached,T-Shaped,2,4
+1626,Metal,958,RC,Brick,Attached,T-Shaped,3,3
+1627,Concrete,978,RC,Mud,Attached,Rectangular,4,4
+1628,Tile,1172,Brick,Brick,Attached,Rectangular,3,4
+1629,Tile,962,RC,RC,Attached,T-Shaped,3,1
+1630,Thatch,1201,Mud,Brick,Not Attached,Square,3,3
+1631,Thatch,1738,RC,Mud,Not Attached,T-Shaped,2,2
+1632,Metal,1616,Brick,Brick,Attached,T-Shaped,2,1
+1633,Thatch,1539,Mud,RC,Attached,Rectangular,1,2
+1634,Tile,275,Brick,Mud,Attached,T-Shaped,1,4
+1635,Metal,798,Mud,RC,Attached,Square,4,4
+1636,Metal,1493,Mud,RC,Not Attached,Rectangular,3,2
+1637,Thatch,424,RC,Brick,Not Attached,T-Shaped,4,4
+1638,Tile,1753,Mud,RC,Attached,T-Shaped,1,4
+1639,Metal,312,Brick,Mud,Not Attached,Square,2,1
+1640,Tile,450,RC,RC,Attached,T-Shaped,1,2
+1641,Tile,1456,Brick,RC,Attached,T-Shaped,4,1
+1642,Tile,1040,Mud,Brick,Not Attached,T-Shaped,1,2
+1643,Thatch,913,Brick,RC,Attached,T-Shaped,4,1
+1644,Concrete,1306,Brick,Brick,Not Attached,Square,4,3
+1645,Concrete,324,Mud,Brick,Attached,T-Shaped,4,3
+1646,Metal,1398,RC,Mud,Not Attached,T-Shaped,4,2
+1647,Tile,1292,Brick,Mud,Attached,T-Shaped,1,3
+1648,Thatch,1270,Mud,Mud,Not Attached,Rectangular,4,1
+1649,Tile,1083,RC,Mud,Attached,Square,4,2
+1650,Tile,1479,RC,Brick,Attached,Rectangular,3,3
+1651,Thatch,1950,RC,RC,Not Attached,Rectangular,4,3
+1652,Concrete,229,Brick,Mud,Attached,Square,1,2
+1653,Tile,480,Brick,Mud,Not Attached,Rectangular,4,3
+1654,Tile,1123,Brick,Mud,Not Attached,Rectangular,2,3
+1655,Concrete,1460,RC,RC,Attached,Rectangular,2,2
+1656,Thatch,1471,Brick,Mud,Attached,Square,4,3
+1657,Metal,567,Mud,RC,Attached,T-Shaped,2,3
+1658,Concrete,694,Brick,Brick,Attached,Square,2,3
+1659,Metal,1248,Brick,Brick,Not Attached,Square,1,3
+1660,Metal,1809,RC,Brick,Attached,Square,3,4
+1661,Concrete,917,Brick,RC,Attached,Rectangular,2,2
+1662,Tile,1713,Mud,Mud,Attached,T-Shaped,2,4
+1663,Metal,1216,RC,Mud,Not Attached,Square,3,4
+1664,Metal,1717,Mud,Mud,Attached,Square,3,1
+1665,Thatch,1537,RC,Mud,Not Attached,T-Shaped,2,4
+1666,Tile,805,RC,Mud,Attached,T-Shaped,4,4
+1667,Metal,574,Brick,RC,Not Attached,T-Shaped,2,1
+1668,Thatch,838,Mud,Brick,Attached,Rectangular,4,3
+1669,Tile,1248,RC,Mud,Attached,T-Shaped,4,3
+1670,Concrete,1557,Brick,Brick,Not Attached,Rectangular,4,4
+1671,Concrete,1578,RC,RC,Attached,Square,3,1
+1672,Thatch,315,RC,RC,Attached,Rectangular,2,3
+1673,Concrete,247,RC,Mud,Attached,T-Shaped,2,1
+1674,Metal,1961,RC,RC,Not Attached,Rectangular,1,2
+1675,Tile,298,RC,Brick,Attached,T-Shaped,3,2
+1676,Metal,1682,RC,Mud,Not Attached,Rectangular,1,2
+1677,Metal,1746,Brick,Mud,Not Attached,Square,1,2
+1678,Concrete,1820,RC,Brick,Not Attached,Rectangular,4,4
+1679,Metal,604,Mud,Mud,Attached,Square,3,2
+1680,Concrete,1437,Brick,Mud,Not Attached,T-Shaped,1,2
+1681,Tile,884,Mud,Brick,Not Attached,Square,2,1
+1682,Tile,1102,RC,Mud,Attached,T-Shaped,1,3
+1683,Metal,702,Mud,Mud,Not Attached,T-Shaped,3,1
+1684,Thatch,1944,RC,Brick,Not Attached,Square,2,4
+1685,Concrete,1671,RC,RC,Attached,Square,2,2
+1686,Concrete,1093,Brick,Brick,Attached,Rectangular,2,3
+1687,Metal,1799,Brick,Mud,Not Attached,Rectangular,4,3
+1688,Concrete,457,RC,Brick,Attached,Square,2,2
+1689,Concrete,1043,Brick,Mud,Attached,Square,4,2
+1690,Thatch,320,Mud,Mud,Attached,Square,4,4
+1691,Thatch,1009,Brick,Brick,Not Attached,Square,1,4
+1692,Metal,1177,Brick,Mud,Not Attached,T-Shaped,1,2
+1693,Thatch,253,Mud,RC,Attached,Square,2,2
+1694,Metal,1218,Brick,Mud,Not Attached,Square,3,2
+1695,Tile,1554,RC,Brick,Attached,Square,2,2
+1696,Metal,983,Mud,RC,Attached,Square,1,3
+1697,Tile,440,RC,RC,Attached,T-Shaped,2,4
+1698,Metal,1978,Mud,Mud,Attached,Rectangular,1,2
+1699,Concrete,1753,RC,Brick,Attached,Rectangular,2,2
+1700,Thatch,682,RC,Mud,Not Attached,Rectangular,3,3
+1701,Tile,1212,Brick,Mud,Not Attached,Rectangular,2,1
+1702,Metal,386,RC,Brick,Not Attached,Rectangular,3,2
+1703,Thatch,855,Brick,Brick,Not Attached,T-Shaped,3,3
+1704,Metal,461,Mud,Mud,Attached,Rectangular,2,3
+1705,Thatch,1152,RC,RC,Attached,T-Shaped,3,1
+1706,Thatch,1587,RC,Mud,Not Attached,T-Shaped,3,4
+1707,Metal,690,Mud,RC,Not Attached,Rectangular,1,4
+1708,Tile,630,Mud,Mud,Attached,Rectangular,1,4
+1709,Tile,438,RC,Brick,Attached,Rectangular,3,2
+1710,Concrete,503,Mud,RC,Attached,Square,4,4
+1711,Thatch,497,Brick,Brick,Not Attached,T-Shaped,2,2
+1712,Concrete,275,Mud,Brick,Attached,Rectangular,3,2
+1713,Concrete,1923,Mud,Brick,Attached,Square,2,3
+1714,Metal,1556,RC,Brick,Not Attached,T-Shaped,1,4
+1715,Metal,1198,Brick,Brick,Not Attached,Square,2,4
+1716,Metal,1981,Mud,Mud,Not Attached,Square,3,4
+1717,Thatch,841,Brick,RC,Attached,Rectangular,3,2
+1718,Metal,1697,Brick,Mud,Attached,T-Shaped,3,2
+1719,Metal,1026,Brick,Mud,Not Attached,Square,3,4
+1720,Thatch,482,RC,Mud,Attached,T-Shaped,4,2
+1721,Thatch,790,Mud,Brick,Attached,Rectangular,4,2
+1722,Tile,271,RC,Mud,Attached,T-Shaped,4,1
+1723,Metal,1486,Mud,RC,Not Attached,Square,3,1
+1724,Metal,902,Mud,Mud,Not Attached,Square,4,4
+1725,Metal,774,RC,Brick,Attached,T-Shaped,2,4
+1726,Tile,1199,Brick,RC,Attached,Square,3,1
+1727,Metal,1091,Brick,RC,Attached,Square,1,2
+1728,Tile,211,Mud,RC,Attached,Square,3,2
+1729,Concrete,340,RC,RC,Not Attached,Rectangular,2,3
+1730,Tile,1989,Brick,Mud,Not Attached,Rectangular,4,4
+1731,Concrete,1778,Brick,Brick,Attached,Square,3,4
+1732,Metal,216,Mud,RC,Attached,T-Shaped,4,4
+1733,Concrete,1286,Mud,RC,Not Attached,Rectangular,3,3
+1734,Tile,452,RC,Brick,Attached,T-Shaped,2,3
+1735,Thatch,664,Mud,Mud,Not Attached,Square,3,2
+1736,Concrete,575,Brick,RC,Attached,Square,4,1
+1737,Concrete,1180,Brick,Mud,Not Attached,T-Shaped,4,1
+1738,Metal,719,Brick,Mud,Attached,Rectangular,2,1
+1739,Tile,289,Brick,Mud,Attached,T-Shaped,3,2
+1740,Concrete,919,RC,Mud,Not Attached,T-Shaped,1,1
+1741,Concrete,1003,RC,RC,Not Attached,Square,3,3
+1742,Concrete,995,Mud,RC,Attached,Rectangular,2,3
+1743,Concrete,829,Mud,Mud,Attached,T-Shaped,1,4
+1744,Thatch,1398,Mud,Mud,Not Attached,Rectangular,2,1
+1745,Tile,275,RC,Brick,Not Attached,Square,3,3
+1746,Metal,1836,Brick,Brick,Attached,Rectangular,1,4
+1747,Metal,1125,Mud,Brick,Attached,Square,2,1
+1748,Thatch,1886,Brick,RC,Not Attached,Rectangular,4,1
+1749,Tile,599,Mud,Brick,Not Attached,T-Shaped,1,3
+1750,Concrete,1169,Mud,RC,Not Attached,Square,1,4
+1751,Thatch,1294,Mud,RC,Not Attached,T-Shaped,2,4
+1752,Tile,1403,Mud,RC,Not Attached,Square,4,3
+1753,Concrete,1347,Mud,RC,Attached,Rectangular,1,3
+1754,Thatch,1604,Brick,Brick,Attached,Rectangular,2,3
+1755,Tile,1516,Mud,Mud,Not Attached,Square,1,1
+1756,Metal,996,Brick,Mud,Attached,Square,1,3
+1757,Metal,394,RC,Mud,Attached,Square,1,3
+1758,Tile,427,Mud,Brick,Not Attached,Rectangular,4,2
+1759,Metal,1654,Brick,Mud,Attached,Square,3,3
+1760,Tile,1659,RC,Brick,Attached,Square,3,3
+1761,Concrete,660,RC,Brick,Attached,T-Shaped,4,1
+1762,Tile,817,RC,Brick,Not Attached,Square,4,4
+1763,Concrete,1244,Brick,Mud,Not Attached,T-Shaped,2,1
+1764,Thatch,263,Mud,Mud,Attached,T-Shaped,1,2
+1765,Tile,364,Mud,Mud,Attached,T-Shaped,4,3
+1766,Thatch,226,Brick,RC,Attached,Rectangular,2,3
+1767,Metal,1534,Mud,Brick,Attached,T-Shaped,3,3
+1768,Concrete,1211,Brick,RC,Attached,Square,3,3
+1769,Tile,484,Mud,Brick,Attached,Rectangular,3,3
+1770,Thatch,1883,RC,Mud,Not Attached,Rectangular,3,3
+1771,Concrete,480,Mud,Brick,Attached,Rectangular,2,2
+1772,Concrete,1037,Brick,Brick,Attached,Rectangular,1,3
+1773,Metal,1030,Brick,RC,Not Attached,Rectangular,2,3
+1774,Metal,1387,RC,Brick,Attached,Rectangular,1,3
+1775,Concrete,1117,Brick,Mud,Attached,Rectangular,3,2
+1776,Concrete,423,Mud,Brick,Attached,T-Shaped,4,3
+1777,Tile,983,Mud,Brick,Attached,Square,4,2
+1778,Concrete,1369,RC,Brick,Not Attached,Square,4,1
+1779,Tile,1164,Brick,RC,Attached,T-Shaped,1,3
+1780,Concrete,1149,RC,Brick,Not Attached,T-Shaped,3,4
+1781,Metal,1253,Mud,Brick,Attached,Rectangular,2,2
+1782,Tile,244,RC,RC,Attached,Rectangular,4,1
+1783,Thatch,670,Brick,RC,Not Attached,T-Shaped,1,2
+1784,Metal,233,RC,RC,Attached,Rectangular,4,2
+1785,Tile,852,Brick,RC,Not Attached,Square,2,1
+1786,Tile,1650,Brick,Mud,Not Attached,Square,3,3
+1787,Thatch,1029,Mud,Mud,Not Attached,Rectangular,2,3
+1788,Tile,420,Mud,Brick,Attached,Rectangular,3,2
+1789,Concrete,733,Mud,Mud,Attached,Rectangular,3,1
+1790,Thatch,891,Brick,Brick,Attached,Square,3,3
+1791,Metal,1590,RC,Mud,Attached,Rectangular,4,2
+1792,Metal,1131,Brick,RC,Not Attached,T-Shaped,2,4
+1793,Concrete,1040,Mud,RC,Attached,Rectangular,4,1
+1794,Metal,1966,Mud,Mud,Attached,T-Shaped,2,4
+1795,Tile,1210,RC,Mud,Not Attached,Rectangular,1,4
+1796,Tile,1773,Mud,Brick,Not Attached,Rectangular,1,2
+1797,Concrete,781,Mud,Brick,Attached,Square,2,1
+1798,Metal,1339,Mud,Brick,Not Attached,T-Shaped,2,3
+1799,Metal,438,RC,RC,Not Attached,T-Shaped,2,3
+1800,Concrete,1558,Brick,RC,Not Attached,T-Shaped,2,2
+1801,Thatch,640,Mud,RC,Not Attached,Square,3,3
+1802,Metal,347,RC,RC,Not Attached,T-Shaped,4,3
+1803,Thatch,1232,Mud,Brick,Attached,Square,3,4
+1804,Metal,1511,RC,RC,Attached,Rectangular,4,4
+1805,Metal,587,Mud,RC,Attached,Rectangular,4,1
+1806,Metal,1273,RC,RC,Attached,T-Shaped,4,4
+1807,Metal,1740,Mud,RC,Attached,Rectangular,3,3
+1808,Tile,1115,Brick,Mud,Attached,Rectangular,2,1
+1809,Thatch,837,Mud,Brick,Attached,T-Shaped,3,1
+1810,Thatch,1810,RC,Brick,Not Attached,Rectangular,3,2
+1811,Metal,1900,Mud,RC,Attached,T-Shaped,4,4
+1812,Metal,477,Brick,Mud,Attached,T-Shaped,1,1
+1813,Thatch,1188,Mud,Brick,Attached,Rectangular,1,3
+1814,Tile,1523,RC,Brick,Not Attached,Rectangular,3,1
+1815,Concrete,788,RC,RC,Attached,Rectangular,4,1
+1816,Concrete,848,Brick,RC,Attached,Rectangular,3,2
+1817,Thatch,817,RC,Brick,Not Attached,Rectangular,3,3
+1818,Metal,1830,Mud,Brick,Attached,Square,2,3
+1819,Metal,334,Mud,Mud,Attached,Rectangular,4,4
+1820,Tile,779,Mud,Brick,Not Attached,Square,1,3
+1821,Concrete,1370,RC,Brick,Attached,T-Shaped,1,1
+1822,Tile,689,Mud,RC,Not Attached,Rectangular,1,3
+1823,Concrete,677,Mud,Brick,Attached,Rectangular,3,3
+1824,Thatch,1382,Mud,RC,Attached,Rectangular,4,1
+1825,Concrete,583,Brick,Brick,Attached,T-Shaped,2,2
+1826,Tile,362,RC,Brick,Not Attached,Square,1,4
+1827,Tile,640,RC,Brick,Not Attached,Square,4,4
+1828,Tile,1412,RC,Mud,Not Attached,Rectangular,1,2
+1829,Thatch,614,Brick,RC,Attached,Rectangular,2,1
+1830,Concrete,1562,RC,Mud,Attached,Rectangular,4,4
+1831,Concrete,1830,Brick,Brick,Not Attached,Rectangular,3,2
+1832,Tile,1404,Brick,Mud,Not Attached,T-Shaped,3,2
+1833,Concrete,487,RC,RC,Attached,Rectangular,1,2
+1834,Metal,386,Mud,Brick,Attached,T-Shaped,1,4
+1835,Metal,1361,Mud,Mud,Attached,Rectangular,4,4
+1836,Metal,329,RC,Mud,Attached,Square,2,4
+1837,Concrete,393,RC,RC,Not Attached,Square,1,4
+1838,Thatch,515,Brick,Mud,Attached,Rectangular,4,3
+1839,Thatch,343,RC,RC,Attached,Rectangular,2,2
+1840,Thatch,215,Brick,Brick,Attached,T-Shaped,1,3
+1841,Thatch,1525,RC,Brick,Attached,Rectangular,1,2
+1842,Metal,622,Mud,Mud,Attached,Rectangular,4,4
+1843,Metal,444,Mud,Brick,Attached,Rectangular,1,4
+1844,Tile,1126,RC,Brick,Attached,Square,3,3
+1845,Concrete,1330,Brick,Mud,Not Attached,T-Shaped,2,1
+1846,Concrete,1311,Mud,Brick,Not Attached,Square,2,4
+1847,Thatch,328,Brick,Mud,Not Attached,T-Shaped,3,1
+1848,Metal,1106,RC,RC,Attached,Square,4,2
+1849,Thatch,1086,RC,RC,Not Attached,Rectangular,3,3
+1850,Tile,540,Mud,RC,Attached,Square,3,1
+1851,Concrete,203,RC,Mud,Attached,Square,2,1
+1852,Concrete,1550,Mud,Mud,Attached,T-Shaped,4,4
+1853,Thatch,1633,Brick,Brick,Attached,T-Shaped,1,1
+1854,Tile,505,Mud,Brick,Not Attached,Square,3,1
+1855,Concrete,1107,Mud,Brick,Attached,T-Shaped,3,2
+1856,Tile,806,Brick,Brick,Attached,T-Shaped,4,3
+1857,Tile,1944,Mud,Brick,Not Attached,T-Shaped,3,4
+1858,Thatch,1448,Mud,Mud,Not Attached,T-Shaped,4,4
+1859,Metal,1571,RC,Mud,Not Attached,T-Shaped,1,1
+1860,Thatch,1191,Brick,RC,Attached,Square,4,2
+1861,Metal,520,Mud,RC,Not Attached,T-Shaped,1,1
+1862,Tile,758,Brick,RC,Attached,Rectangular,4,1
+1863,Metal,1404,Brick,RC,Attached,Square,3,4
+1864,Tile,817,Mud,Mud,Not Attached,Square,1,1
+1865,Concrete,910,RC,Mud,Not Attached,Square,3,1
+1866,Concrete,1609,Brick,Mud,Not Attached,T-Shaped,1,2
+1867,Concrete,1841,Mud,Brick,Attached,Rectangular,4,4
+1868,Thatch,1995,Brick,Brick,Attached,T-Shaped,4,3
+1869,Thatch,1331,RC,RC,Attached,Square,4,2
+1870,Tile,730,RC,Brick,Attached,Square,2,2
+1871,Concrete,609,RC,Mud,Attached,Square,2,2
+1872,Thatch,1519,Mud,RC,Attached,Square,1,4
+1873,Concrete,1017,Mud,RC,Not Attached,T-Shaped,2,1
+1874,Thatch,1394,RC,Brick,Attached,Rectangular,4,3
+1875,Metal,1554,Mud,RC,Not Attached,Rectangular,2,4
+1876,Metal,692,RC,Brick,Not Attached,Square,2,1
+1877,Concrete,1418,Mud,Brick,Not Attached,Rectangular,3,2
+1878,Tile,211,RC,RC,Not Attached,Square,1,4
+1879,Thatch,394,Brick,Brick,Not Attached,Square,1,1
+1880,Thatch,689,RC,Brick,Attached,Rectangular,1,3
+1881,Metal,994,RC,Brick,Attached,Square,2,3
+1882,Metal,1080,Mud,Brick,Attached,Rectangular,4,1
+1883,Tile,381,Mud,RC,Attached,Square,3,4
+1884,Tile,1161,Mud,Mud,Not Attached,Rectangular,1,2
+1885,Tile,855,Mud,Mud,Not Attached,Square,2,1
+1886,Concrete,1539,Mud,Brick,Not Attached,Rectangular,4,2
+1887,Metal,893,Mud,Brick,Attached,Square,3,3
+1888,Concrete,229,Brick,Brick,Attached,Square,3,1
+1889,Metal,1819,RC,Mud,Attached,Square,1,3
+1890,Metal,1901,RC,Brick,Attached,Rectangular,1,2
+1891,Thatch,1319,RC,RC,Not Attached,T-Shaped,4,2
+1892,Metal,1604,Brick,RC,Not Attached,Square,2,1
+1893,Metal,977,RC,RC,Attached,Square,4,1
+1894,Concrete,643,Brick,Mud,Attached,Rectangular,1,1
+1895,Metal,497,Brick,Brick,Not Attached,Square,4,3
+1896,Concrete,1007,Brick,Brick,Not Attached,Square,2,2
+1897,Tile,1960,RC,Brick,Not Attached,Square,3,2
+1898,Metal,1044,Brick,Mud,Not Attached,Square,3,3
+1899,Metal,1215,RC,Mud,Attached,T-Shaped,3,1
+1900,Concrete,1584,RC,Mud,Not Attached,T-Shaped,3,4
+1901,Tile,1597,Mud,Mud,Not Attached,Square,1,1
+1902,Thatch,753,Mud,RC,Not Attached,Square,1,4
+1903,Tile,502,Brick,Mud,Not Attached,Square,2,4
+1904,Concrete,620,Brick,Mud,Attached,T-Shaped,2,3
+1905,Tile,1469,RC,Mud,Attached,T-Shaped,2,2
+1906,Concrete,1943,Brick,Brick,Attached,Rectangular,2,2
+1907,Concrete,1460,Brick,Brick,Attached,Rectangular,4,2
+1908,Thatch,1757,RC,Brick,Attached,Square,2,2
+1909,Metal,384,Brick,RC,Attached,Square,3,3
+1910,Concrete,667,Brick,RC,Not Attached,T-Shaped,3,4
+1911,Concrete,953,RC,Mud,Not Attached,Square,3,2
+1912,Thatch,562,RC,Brick,Not Attached,Square,4,4
+1913,Concrete,1506,Mud,RC,Not Attached,T-Shaped,2,3
+1914,Metal,1776,RC,Brick,Attached,T-Shaped,3,1
+1915,Thatch,535,Mud,RC,Not Attached,T-Shaped,3,3
+1916,Metal,361,Brick,RC,Attached,T-Shaped,3,2
+1917,Metal,1383,RC,Mud,Not Attached,Rectangular,3,1
+1918,Thatch,1697,RC,Mud,Not Attached,T-Shaped,1,3
+1919,Concrete,1824,RC,RC,Not Attached,T-Shaped,2,3
+1920,Metal,1545,Brick,Mud,Attached,Square,2,4
+1921,Metal,211,Mud,RC,Not Attached,Square,4,3
+1922,Metal,1647,Brick,RC,Attached,Square,1,1
+1923,Metal,1296,Brick,Brick,Attached,Rectangular,4,3
+1924,Thatch,787,RC,Mud,Not Attached,T-Shaped,3,2
+1925,Thatch,400,Mud,Mud,Attached,T-Shaped,4,4
+1926,Tile,721,Brick,Mud,Attached,Rectangular,3,1
+1927,Tile,704,RC,Brick,Not Attached,T-Shaped,3,1
+1928,Metal,1961,Brick,Brick,Not Attached,Square,2,3
+1929,Concrete,1911,Brick,Brick,Not Attached,Rectangular,2,2
+1930,Metal,987,RC,Mud,Not Attached,T-Shaped,2,4
+1931,Concrete,1262,RC,Mud,Not Attached,Rectangular,2,1
+1932,Metal,259,Mud,Mud,Not Attached,Rectangular,2,4
+1933,Tile,777,Brick,Brick,Attached,T-Shaped,1,3
+1934,Tile,520,RC,Brick,Not Attached,Square,2,2
+1935,Concrete,1658,RC,RC,Not Attached,T-Shaped,4,3
+1936,Metal,1859,Mud,Brick,Attached,T-Shaped,3,4
+1937,Concrete,1899,Mud,RC,Not Attached,Square,2,3
+1938,Tile,1631,RC,Mud,Attached,T-Shaped,1,4
+1939,Metal,1122,Mud,Brick,Not Attached,T-Shaped,4,1
+1940,Metal,1609,RC,Mud,Not Attached,T-Shaped,4,1
+1941,Concrete,1894,Brick,Mud,Attached,Rectangular,3,3
+1942,Thatch,768,Mud,Mud,Not Attached,Rectangular,4,1
+1943,Concrete,1301,Brick,Mud,Attached,Rectangular,4,4
+1944,Tile,1417,Brick,Brick,Not Attached,T-Shaped,4,1
+1945,Tile,1508,Brick,Mud,Not Attached,Square,4,2
+1946,Tile,726,RC,RC,Attached,Rectangular,1,2
+1947,Tile,723,Brick,Brick,Not Attached,Square,3,3
+1948,Tile,812,Brick,Mud,Not Attached,T-Shaped,2,3
+1949,Thatch,1379,Brick,Brick,Attached,Rectangular,4,3
+1950,Metal,1563,RC,RC,Not Attached,T-Shaped,1,3
+1951,Concrete,324,Brick,Mud,Attached,Square,3,4
+1952,Concrete,1070,Brick,RC,Not Attached,Rectangular,2,4
+1953,Tile,479,Mud,Mud,Attached,Rectangular,3,2
+1954,Concrete,1116,RC,RC,Not Attached,Rectangular,1,4
+1955,Tile,821,Brick,Mud,Attached,Rectangular,1,1
+1956,Thatch,1045,Mud,Brick,Attached,Square,1,2
+1957,Thatch,1881,RC,Mud,Not Attached,Rectangular,4,3
+1958,Metal,1951,RC,Brick,Not Attached,T-Shaped,1,3
+1959,Thatch,873,RC,Mud,Attached,Rectangular,2,4
+1960,Thatch,1351,RC,Mud,Not Attached,Square,4,2
+1961,Metal,513,RC,RC,Attached,Rectangular,3,4
+1962,Concrete,531,RC,RC,Not Attached,Square,2,4
+1963,Tile,1373,Brick,RC,Not Attached,Square,4,4
+1964,Tile,1677,Brick,Mud,Attached,T-Shaped,1,2
+1965,Concrete,235,Brick,Mud,Attached,Rectangular,3,3
+1966,Metal,1908,Brick,Mud,Not Attached,Rectangular,1,1
+1967,Concrete,1643,Mud,Brick,Not Attached,Rectangular,2,3
+1968,Thatch,1245,Brick,Brick,Not Attached,T-Shaped,2,2
+1969,Metal,405,RC,Mud,Not Attached,T-Shaped,4,3
+1970,Metal,838,Brick,RC,Not Attached,Square,2,3
+1971,Metal,1047,Brick,RC,Attached,Square,3,1
+1972,Tile,1579,RC,RC,Not Attached,Square,4,3
+1973,Concrete,639,Brick,Mud,Not Attached,T-Shaped,3,3
+1974,Metal,928,Brick,RC,Attached,T-Shaped,1,3
+1975,Metal,1319,Brick,Mud,Attached,T-Shaped,3,4
+1976,Metal,1140,Mud,Brick,Attached,Square,3,2
+1977,Concrete,363,Brick,RC,Not Attached,T-Shaped,2,2
+1978,Tile,347,RC,Brick,Attached,Square,1,1
+1979,Thatch,1753,RC,RC,Attached,Square,2,4
+1980,Tile,493,Brick,Mud,Attached,Rectangular,1,4
+1981,Metal,394,Brick,Mud,Attached,Rectangular,1,3
+1982,Tile,862,Brick,Mud,Not Attached,Rectangular,3,2
+1983,Tile,679,RC,Mud,Not Attached,Square,2,1
+1984,Thatch,322,RC,RC,Not Attached,Rectangular,3,4
+1985,Concrete,1623,Mud,Brick,Attached,Rectangular,3,3
+1986,Concrete,898,Mud,Mud,Attached,Rectangular,3,1
+1987,Tile,1164,Mud,RC,Attached,T-Shaped,1,4
+1988,Tile,1675,RC,Brick,Attached,Square,2,1
+1989,Concrete,860,Mud,Mud,Attached,Rectangular,2,4
+1990,Concrete,1327,Brick,Brick,Attached,T-Shaped,3,1
+1991,Thatch,1978,Brick,Mud,Not Attached,T-Shaped,1,4
+1992,Metal,1685,RC,Brick,Not Attached,T-Shaped,2,4
+1993,Tile,1966,Mud,Brick,Attached,Rectangular,4,1
+1994,Concrete,1941,Brick,Mud,Not Attached,T-Shaped,2,4
+1995,Tile,909,RC,RC,Attached,Square,3,4
+1996,Tile,595,Mud,Brick,Attached,T-Shaped,4,4
+1997,Concrete,1111,Brick,Mud,Not Attached,T-Shaped,1,1
+1998,Thatch,1560,Mud,Brick,Attached,T-Shaped,4,1
+1999,Tile,1204,RC,Brick,Not Attached,T-Shaped,4,4
+2000,Thatch,1822,Mud,RC,Attached,Square,3,4
