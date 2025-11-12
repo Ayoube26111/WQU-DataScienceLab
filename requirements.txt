@@ -1,7 +1,13 @@
-# Common Python packages for WQU Data Science projects
-pandas
-numpy
-matplotlib
-seaborn
+# Core teaching tools dependencies
+numpy<2.0
+pandas<2.0.0
+ipython<9
+ipywidgets<8
 scikit-learn
-jupyter
+matplotlib<4.0.0
+pymongo<5.0.0,>=4.1.1
+randomtimestamp>=2.2,<3.0
+names<0.4.0,>=0.3.0
+plotly
+scipy
+country_converter
