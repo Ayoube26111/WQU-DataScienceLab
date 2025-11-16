@@ -48,4 +48,4 @@ Predict market volatility in India using historical financial data and statistic
 
 ---
 
-*Made with ❤️ by [Ayoube26111](https://github.com/Ayoube2611]
+*Made by [Ayoube26111](https://github.com/Ayoube2611]
