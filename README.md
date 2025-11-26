@@ -1,4 +1,3 @@
- HEAD
 # 🌍 WQU Data Science Lab Projects
 
 Welcome to my **WorldQuant University Data Science Lab** repository! Here you’ll find my hands-on projects covering data analysis, machine learning, and data-driven insights from different countries and domains.
